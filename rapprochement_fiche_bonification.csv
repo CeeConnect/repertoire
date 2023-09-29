@@ -1,0 +1,22 @@
+fiche_code;fiche_nom;bonification_code;bonification_nom
+TRA-SE-115;Covoiturage de courte distance;CDC-1;Coup de pouce CEE Covoiturage longue distance
+TRA-SE-114;Covoiturage de longue distance;CDC-2;Coup de pouce CEE Covoiturage courte distance
+BAT-TH-113;Pompe à chaleur de type air/eau ou eau/eau;CFT;Coup de pouce Chauffage des bâtiments résidentiels collectifs et tertiaires
+BAT-TH-127;Raccordement d'un bâtiment tertiaire à un réseau de chaleur;CFT;Coup de pouce Chauffage des bâtiments résidentiels collectifs et tertiaires
+BAT-TH-141;Pompe à chaleur à moteur gaz de type air/eau;CFT;Coup de pouce Chauffage des bâtiments résidentiels collectifs et tertiaires
+BAT-TH-157;Chaudière biomasse collective;CFT;Coup de pouce Chauffage des bâtiments résidentiels collectifs et tertiaires
+BAR-TH-137;Raccordement d'un bâtiment résidentiel à un réseau de chaleur;CFT;Coup de pouce Chauffage des bâtiments résidentiels collectifs et tertiaires
+BAR-TH-150;Pompe à chaleur collective à absorption de type air/eau ou eau/eau;CFT;Coup de pouce Chauffage des bâtiments résidentiels collectifs et tertiaires
+BAR-TH-165;Chaudière biomasse collective;CFT;Coup de pouce Chauffage des bâtiments résidentiels collectifs et tertiaires
+BAR-TH-166;Pompe à chaleur collective de type air/eau ou eau/eau;CFT;Coup de pouce Chauffage des bâtiments résidentiels collectifs et tertiaires
+BAR-TH-113;Chaudière biomasse individuelle;CDP-1;Coup de pouce Chauffage
+BAR-TH-104;Pompe à chaleur de type air/eau ou eau/eau;CDP-1;Coup de pouce Chauffage
+BAR-TH-159;Pompe à chaleur hybride individuelle;CDP-1;Coup de pouce Chauffage
+BAR-TH-112;Appareil indépendant de chauffage au bois;CDP-1;Coup de pouce Chauffage
+BAR-TH-163;Conduit d’évacuation des produits de combustion;CDP-1;Coup de pouce Chauffage
+BAR-TH-143;Système solaire combiné (France métropolitaine);CDP-1;Coup de pouce Chauffage
+BAR-TH-164;Rénovation globale d'une maison individuelle (France métropolitaine);CRM;Coup de pouce Rénovation performante d'une maison individuelle
+BAR-TH-145;Rénovation globale d’un bâtiment résidentiel (France métropolitaine);CRC;Coup de pouce Rénovation performante de bâtiment résidentiel collectif
+BAR-TH-118;Système de régulation par programmation d’intermittence;CTH;Coup de pouce Thermostat avec régulation performante
+BAR-EN-101;Isolation de combles ou de toitures;CDP-2;Coup de pouce Isolation
+BAR-EN-103;Isolation d’un plancher;CDP-2;Coup de pouce Isolation

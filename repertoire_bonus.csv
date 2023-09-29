@@ -1,0 +1,16 @@
+id;code;code_nature;version;nom;date_debut;date_fin
+ZNIv14-1;ZNI;ZNI;A14-1;Zones non interconnectées au réseau métropolitain continental de transport d'électricité;2015-01-01;2015-12-31
+ZNIv23-1;ZNI;ZNI;A23-1;Zones non interconnectées au réseau métropolitain continental de transport d'électricité;2016-01-01;2021-04-16
+ZNIv35-1;ZNI;ZNI;A35-1;Zones non interconnectées au réseau métropolitain continental de transport d'électricité;2021-04-17;
+GPE-ZNIv14-1;GPE-ZNI;GPE ZNI;A14-1;Zones non interconnectées au réseau métropolitain continental de transport d'électricité - Grande précarité énergétique;2015-01-01;2015-12-31
+GPE-ZNIv23-1;GPE-ZNI;GPE ZNI;A23-1;Zones non interconnectées au réseau métropolitain continental de transport d'électricité - Grande précarité énergétique;2016-01-01;2021-04-16
+GPE-ZNIv35-1;GPE-ZNI;GPE ZNI;A35-1;Zones non interconnectées au réseau métropolitain continental de transport d'électricité - Grande précarité énergétique;2021-04-17;
+ETSv14-1;ETS;ETS;A14-1;Opérations éligibles au système d'échange des quotas;2015-01-01;2019-09-22
+ETSv23-1;ETS;ETS;A23-1;Opérations éligibles au système d'échange des quotas;2019-09-23;2021-04-16
+ETSv35-1;ETS;ETS;A35-1;Opérations éligibles au système d'échange des quotas;2021-04-17;
+CPEv14-1;CPE;CPE;A14-1;Contrat de performance énergétique;2015-01-01;2020-06-30
+CPEv27-2;CPE;CPE;A27-2;Contrat de performance énergétique;2020-07-01;2021-12-23
+CPEv40-1;CPE;CPE;A40-1;Contrat de performance énergétique;2021-12-24;
+GPEv15-1;GPE;GPE;A15-1;Grande précarité énergétique;2016-01-01;2021-04-16
+GPEv35-1;GPE;GPE;A35-1;Grande précarité énergétique;2021-04-17;2022-05-14
+GPEv42-1;GPE;GPE;A42-1;Grande précarité énergétique;2022-05-15;
