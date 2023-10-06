@@ -1,418 +1,420 @@
 ﻿id;code;code_secteur;secteur;code_sous_secteur;sous_secteur;nom;version;date_debut;date_fin;metropole;outre_mer;no_version
-AGRI-EQ-101v14-1;AGRI-EQ-101;AGRI;Agriculture;EQ;Equipement;Module d'intégration de température installé sur un ordinateur climatique;A14-1;2015-01-01;;1;1;1
-AGRI-EQ-102v14-1;AGRI-EQ-102;AGRI;Agriculture;EQ;Equipement;Double écran thermique;A14-1;2015-01-01;;1;1;1
-AGRI-EQ-104v14-1;AGRI-EQ-104;AGRI;Agriculture;EQ;Equipement;Ecrans thermiques latéraux;A14-1;2015-01-01;;1;1;1
-AGRI-EQ-105v28-1;AGRI-EQ-105;AGRI;Agriculture;EQ;Equipement;Stop & Start pour véhicules agricoles à moteur;A28-1;2018-12-19;;1;1;1
-AGRI-EQ-107v38-1;AGRI-EQ-107;AGRI;Agriculture;EQ;Equipement;Isolation des parois de serre;A38-1;2021-07-31;;1;1;1
-AGRI-EQ-108v38-1;AGRI-EQ-108;AGRI;Agriculture;EQ;Equipement;Stockage d'eau pour une serre bioclimatique;A38-1;2021-07-31;;1;1;1
-AGRI-EQ-109v38-1;AGRI-EQ-109;AGRI;Agriculture;EQ;Equipement;Couverture performante de serre;A38-1;2021-07-31;;1;1;1
-AGRI-EQ-110v38-1;AGRI-EQ-110;AGRI;Agriculture;EQ;Equipement;Séchage solaire par insufflation des produits et co-produits agricoles et forestiers utilisant des panneaux solaires hybrides;A38-1;2021-07-31;;1;1;1
-AGRI-SE-101v19-1;AGRI-SE-101;AGRI;Agriculture;SE;Service;Contrôle et préconisations de réglage du moteur d'un tracteur;A19-1;2016-01-04;2022-03-31;1;1;1
-AGRI-SE-101v40-2;AGRI-SE-101;AGRI;Agriculture;SE;Service;Contrôle et préconisations de réglage du moteur d'un tracteur;A40-2;2022-04-01;;1;1;2
-AGRI-TH-101v14-1;AGRI-TH-101;AGRI;Agriculture;TH;Thermique;Dispositif de stockage d'eau chaude de type « Open Buffer »;A14-1;2015-01-01;;1;1;1
-AGRI-TH-102v14-1;AGRI-TH-102;AGRI;Agriculture;TH;Thermique;Dispositif de stockage d'eau chaude;A14-1;2015-01-01;;1;1;1
-AGRI-TH-103v15-1;AGRI-TH-103;AGRI;Agriculture;TH;Thermique;Pré-refroidisseur de lait;A15-1;2015-01-01;;1;1;1
-AGRI-TH-104v16-1;AGRI-TH-104;AGRI;Agriculture;TH;Thermique;Système de récupération de chaleur sur un groupe de production de froid hors tanks à lait;A16-1;2015-01-01;2018-03-31;1;1;1
-AGRI-TH-104v27-2;AGRI-TH-104;AGRI;Agriculture;TH;Thermique;Système de récupération de chaleur sur un groupe de production de froid hors tanks à lait;A27-2;2018-04-01;2020-09-30;1;1;2
-AGRI-TH-104v35-3;AGRI-TH-104;AGRI;Agriculture;TH;Thermique;Système de récupération de chaleur sur un groupe de production de froid hors tanks à lait;A35-3;2020-10-01;;1;1;3
-AGRI-TH-105v16-1;AGRI-TH-105;AGRI;Agriculture;TH;Thermique;Récupérateur de chaleur sur tank à lait;A16-1;2015-01-01;;1;1;1
-AGRI-TH-108v15-1;AGRI-TH-108;AGRI;Agriculture;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A15-1;2015-01-01;2020-09-30;1;1;1
-AGRI-TH-108v35-2;AGRI-TH-108;AGRI;Agriculture;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A35-2;2020-10-01;;1;1;2
-AGRI-TH-109v14-1;AGRI-TH-109;AGRI;Agriculture;TH;Thermique;Récupérateur de chaleur à condensation pour serres horticoles;A14-1;2015-01-01;2023-12-31;1;1;1
-AGRI-TH-109v54-2;AGRI-TH-109;AGRI;Agriculture;TH;Thermique;Récupérateur de chaleur à condensation pour serres horticoles;A54-2;2024-01-01;2028-06-30;1;1;2
-AGRI-TH-110v14-1;AGRI-TH-110;AGRI;Agriculture;TH;Thermique;Chaudière à haute performance énergétique pour serres horticoles;A14-1;2015-01-01;2020-09-30;1;1;1
-AGRI-TH-110v35-2;AGRI-TH-110;AGRI;Agriculture;TH;Thermique;Chaudière à haute performance énergétique pour serres horticoles;A35-2;2020-10-01;2023-12-31;1;1;2
-AGRI-TH-110v54-3;AGRI-TH-110;AGRI;Agriculture;TH;Thermique;Chaudière à haute performance énergétique pour serres horticoles;A54-3;2024-01-01;2028-06-30;1;1;3
-AGRI-TH-113v14-1;AGRI-TH-113;AGRI;Agriculture;TH;Thermique;Échangeur récupérateur de chaleur air/air dans un bâtiment d'élevage de volailles;A14-1;2015-01-01;;1;1;1
-AGRI-TH-116v17-1;AGRI-TH-116;AGRI;Agriculture;TH;Thermique;Récupération de chaleur fatale issue d'un procédé industriel pour le chauffage d'une serre ou d'un bâtiment d'élevage;A17-1;2015-01-01;;1;1;1
-AGRI-TH-117v14-1;AGRI-TH-117;AGRI;Agriculture;TH;Thermique;Déshumidificateur thermodynamique pour serres;A14-1;2015-01-01;;1;1;1
-AGRI-TH-118v14-1;AGRI-TH-118;AGRI;Agriculture;TH;Thermique;Double tube de chauffage pour serres;A14-1;2015-01-01;;1;1;1
-AGRI-TH-119v28-1;AGRI-TH-119;AGRI;Agriculture;TH;Thermique;Système de déshumidification avec air extérieur;A28-1;2018-12-19;;1;1;1
-AGRI-UT-101v15-1;AGRI-UT-101;AGRI;Agriculture;UT;Utilités;Moto-variateur synchrone à aimants permanents ou à reluctance;A15-1;2015-01-01;2016-12-22;1;1;1
-AGRI-UT-101v24-2;AGRI-UT-101;AGRI;Agriculture;UT;Utilités;Moto-variateur synchrone à aimants permanents ou à reluctance;A24-2;2016-12-23;;1;1;2
-AGRI-UT-102v14-1;AGRI-UT-102;AGRI;Agriculture;UT;Utilités;Système de variation électronique de vitesse sur un moteur asynchrone;A14-1;2015-01-01;2016-05-31;1;1;1
-AGRI-UT-102v22-2;AGRI-UT-102;AGRI;Agriculture;UT;Utilités;Système de variation électronique de vitesse sur un moteur asynchrone;A22-2;2016-06-01;;1;1;2
-AGRI-UT-103v19-1;AGRI-UT-103;AGRI;Agriculture;UT;Utilités;Système de régulation sur un groupe de production de froid permettant d'avoir une basse pression flottante;A19-1;2016-01-04;;1;1;1
-AGRI-UT-104v23-1;AGRI-UT-104;AGRI;Agriculture;UT;Utilités;Système de régulation sur un groupe de production de froid permettant d'avoir une haute pression flottante;A23-1;2015-01-01;;1;1;1
-BAR-EN-101v14-1;BAR-EN-101;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures;A14-1;2015-01-01;2018-03-31;1;0;1
-BAR-EN-101v27-2;BAR-EN-101;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures;A27-2;2018-04-01;2020-08-31;1;0;2
-BAR-EN-101v33-3;BAR-EN-101;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures;A33-3;2020-09-01;2022-04-30;1;0;3
-BAR-EN-101v39-4;BAR-EN-101;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures;A39-4;2022-05-01;2023-12-31;1;0;4
-BAR-EN-101v54-5;BAR-EN-101;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures;A54-5;2024-01-01;2027-04-30;1;0;5
-BAR-EN-102v14-1;BAR-EN-102;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des murs;A14-1;2015-01-01;2022-04-30;1;0;1
-BAR-EN-102v39-2;BAR-EN-102;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des murs;A39-2;2022-05-01;;1;0;2
-BAR-EN-103v14-1;BAR-EN-103;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation d'un plancher;A14-1;2015-01-01;2019-03-31;1;1;1
-BAR-EN-103v29-2;BAR-EN-103;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation d'un plancher;A29-2;2019-04-01;2020-08-31;1;1;2
-BAR-EN-103v33-3;BAR-EN-103;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation d'un plancher;A33-3;2020-09-01;2020-10-11;1;1;3
-BAR-EN-103v36-4;BAR-EN-103;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation d'un plancher;A36-4;2020-10-12;2022-04-30;1;1;4
-BAR-EN-103v39-5;BAR-EN-103;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation d'un plancher;A39-5;2022-05-01;;1;1;5
-BAR-EN-104v14-1;BAR-EN-104;BAR;Bâtiment Résidentiel;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage isolant;A14-1;2015-01-01;2023-12-31;1;1;1
-BAR-EN-104v54-2;BAR-EN-104;BAR;Bâtiment Résidentiel;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage isolant;A54-2;2024-01-01;2028-06-30;1;1;2
-BAR-EN-105v14-1;BAR-EN-105;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des toitures terrasses;A14-1;2015-01-01;2021-03-31;1;1;1
-BAR-EN-105v37-2;BAR-EN-105;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des toitures terrasses;A37-2;2021-04-01;2022-04-30;1;1;2
-BAR-EN-105v39-3;BAR-EN-105;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des toitures terrasses;A39-3;2022-05-01;;1;1;3
-BAR-EN-106v15-1;BAR-EN-106;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A15-1;2015-01-01;2015-10-04;0;1;1
-BAR-EN-106v18-2;BAR-EN-106;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A18-2;2015-10-05;2016-03-12;0;1;2
-BAR-EN-106v20-3;BAR-EN-106;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A20-3;2016-03-13;2020-08-31;0;1;3
-BAR-EN-106v33-4;BAR-EN-106;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A33-4;2020-09-01;;0;1;4
-BAR-EN-107v15-1;BAR-EN-107;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des murs (France d'outre-mer);A15-1;2015-01-01;2015-10-04;0;1;1
-BAR-EN-107v18-2;BAR-EN-107;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des murs (France d'outre-mer);A18-2;2015-10-05;2016-03-12;0;1;2
-BAR-EN-107v20-3;BAR-EN-107;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des murs (France d'outre-mer);A20-3;2016-03-13;;0;1;3
-BAR-EN-108v14-1;BAR-EN-108;BAR;Bâtiment Résidentiel;EN;Enveloppe;Fermeture isolante;A14-1;2015-01-01;2021-03-31;1;1;1
-BAR-EN-108v37-2;BAR-EN-108;BAR;Bâtiment Résidentiel;EN;Enveloppe;Fermeture isolante;A37-2;2021-04-01;2023-12-31;1;1;2
-BAR-EN-108v54-3;BAR-EN-108;BAR;Bâtiment Résidentiel;EN;Enveloppe;Fermeture isolante;A54-3;2024-01-01;2028-06-30;1;1;3
-BAR-EN-109v24-1;BAR-EN-109;BAR;Bâtiment Résidentiel;EN;Enveloppe;Réduction des apports solaires par la toiture (France d'outre-mer);A24-1;2016-12-23;;0;1;1
-BAR-EN-110v35-1;BAR-EN-110;BAR;Bâtiment Résidentiel;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage pariétodynamique;A35-1;2020-08-03;;1;1;1
-BAR-EQ-101v14-1;BAR-EQ-101;BAR;Bâtiment Résidentiel;EQ;Equipement;Lampe fluo-compacte de classe A;A14-1;2015-01-01;2017-09-30;1;1;1
-BAR-EQ-102v15-1;BAR-EQ-102;BAR;Bâtiment Résidentiel;EQ;Equipement;Lave-linge ménager de classe A++ ou A+++;A15-1;2015-01-01;2022-08-31;1;1;1
-BAR-EQ-103v15-1;BAR-EQ-103;BAR;Bâtiment Résidentiel;EQ;Equipement;Appareil de réfrigération ménager de classe A++ ou A+++;A15-1;2015-01-01;2022-08-31;1;1;1
-BAR-EQ-110v15-1;BAR-EQ-110;BAR;Bâtiment Résidentiel;EQ;Equipement;Luminaire à modules LED avec dispositif de contrôle pour les parties communes;A15-1;2015-01-01;;1;1;1
+AGRI-EQ-101v14-1;AGRI-EQ-101;AGRI;Agriculture;EQ;Equipement;Module d'intégration de température installé sur un ordinateur climatique;A14-1;01/01/2015;;1;1;1
+AGRI-EQ-102v14-1;AGRI-EQ-102;AGRI;Agriculture;EQ;Equipement;Double écran thermique;A14-1;01/01/2015;;1;1;1
+AGRI-EQ-104v14-1;AGRI-EQ-104;AGRI;Agriculture;EQ;Equipement;Ecrans thermiques latéraux;A14-1;01/01/2015;;1;1;1
+AGRI-EQ-105v28-1;AGRI-EQ-105;AGRI;Agriculture;EQ;Equipement;Stop & Start pour véhicules agricoles à moteur;A28-1;19/12/2018;;1;1;1
+AGRI-EQ-107v38-1;AGRI-EQ-107;AGRI;Agriculture;EQ;Equipement;Isolation des parois de serre;A38-1;31/07/2021;;1;1;1
+AGRI-EQ-108v38-1;AGRI-EQ-108;AGRI;Agriculture;EQ;Equipement;Stockage d'eau pour une serre bioclimatique;A38-1;31/07/2021;;1;1;1
+AGRI-EQ-109v38-1;AGRI-EQ-109;AGRI;Agriculture;EQ;Equipement;Couverture performante de serre;A38-1;31/07/2021;;1;1;1
+AGRI-EQ-110v38-1;AGRI-EQ-110;AGRI;Agriculture;EQ;Equipement;Séchage solaire par insufflation des produits et co-produits agricoles et forestiers utilisant des panneaux solaires hybrides;A38-1;31/07/2021;;1;1;1
+AGRI-SE-101v19-1;AGRI-SE-101;AGRI;Agriculture;SE;Service;Contrôle et préconisations de réglage du moteur d'un tracteur;A19-1;04/01/2016;31/03/2022;1;1;1
+AGRI-SE-101v40-2;AGRI-SE-101;AGRI;Agriculture;SE;Service;Contrôle et préconisations de réglage du moteur d'un tracteur;A40-2;01/04/2022;;1;1;2
+AGRI-TH-101v14-1;AGRI-TH-101;AGRI;Agriculture;TH;Thermique;Dispositif de stockage d'eau chaude de type « Open Buffer »;A14-1;01/01/2015;;1;1;1
+AGRI-TH-102v14-1;AGRI-TH-102;AGRI;Agriculture;TH;Thermique;Dispositif de stockage d'eau chaude;A14-1;01/01/2015;;1;1;1
+AGRI-TH-103v15-1;AGRI-TH-103;AGRI;Agriculture;TH;Thermique;Pré-refroidisseur de lait;A15-1;01/01/2015;;1;1;1
+AGRI-TH-104v16-1;AGRI-TH-104;AGRI;Agriculture;TH;Thermique;Système de récupération de chaleur sur un groupe de production de froid hors tanks à lait;A16-1;01/01/2015;31/03/2018;1;1;1
+AGRI-TH-104v27-2;AGRI-TH-104;AGRI;Agriculture;TH;Thermique;Système de récupération de chaleur sur un groupe de production de froid hors tanks à lait;A27-2;01/04/2018;30/09/2020;1;1;2
+AGRI-TH-104v35-3;AGRI-TH-104;AGRI;Agriculture;TH;Thermique;Système de récupération de chaleur sur un groupe de production de froid hors tanks à lait;A35-3;01/10/2020;;1;1;3
+AGRI-TH-105v16-1;AGRI-TH-105;AGRI;Agriculture;TH;Thermique;Récupérateur de chaleur sur tank à lait;A16-1;01/01/2015;;1;1;1
+AGRI-TH-108v15-1;AGRI-TH-108;AGRI;Agriculture;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A15-1;01/01/2015;30/09/2020;1;1;1
+AGRI-TH-108v35-2;AGRI-TH-108;AGRI;Agriculture;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A35-2;01/10/2020;;1;1;2
+AGRI-TH-109v14-1;AGRI-TH-109;AGRI;Agriculture;TH;Thermique;Récupérateur de chaleur à condensation pour serres horticoles;A14-1;01/01/2015;31/12/2023;1;1;1
+AGRI-TH-109v54-2;AGRI-TH-109;AGRI;Agriculture;TH;Thermique;Récupérateur de chaleur à condensation pour serres horticoles;A54-2;01/01/2024;30/06/2028;1;1;2
+AGRI-TH-110v14-1;AGRI-TH-110;AGRI;Agriculture;TH;Thermique;Chaudière à haute performance énergétique pour serres horticoles;A14-1;01/01/2015;30/09/2020;1;1;1
+AGRI-TH-110v35-2;AGRI-TH-110;AGRI;Agriculture;TH;Thermique;Chaudière à haute performance énergétique pour serres horticoles;A35-2;01/10/2020;31/12/2023;1;1;2
+AGRI-TH-110v54-3;AGRI-TH-110;AGRI;Agriculture;TH;Thermique;Chaudière à haute performance énergétique pour serres horticoles;A54-3;01/01/2024;30/06/2028;1;1;3
+AGRI-TH-113v14-1;AGRI-TH-113;AGRI;Agriculture;TH;Thermique;Échangeur récupérateur de chaleur air/air dans un bâtiment d'élevage de volailles;A14-1;01/01/2015;;1;1;1
+AGRI-TH-116v17-1;AGRI-TH-116;AGRI;Agriculture;TH;Thermique;Récupération de chaleur fatale issue d'un procédé industriel pour le chauffage d'une serre ou d'un bâtiment d'élevage;A17-1;01/01/2015;;1;1;1
+AGRI-TH-117v14-1;AGRI-TH-117;AGRI;Agriculture;TH;Thermique;Déshumidificateur thermodynamique pour serres;A14-1;01/01/2015;;1;1;1
+AGRI-TH-118v14-1;AGRI-TH-118;AGRI;Agriculture;TH;Thermique;Double tube de chauffage pour serres;A14-1;01/01/2015;;1;1;1
+AGRI-TH-119v28-1;AGRI-TH-119;AGRI;Agriculture;TH;Thermique;Système de déshumidification avec air extérieur;A28-1;19/12/2018;;1;1;1
+AGRI-UT-101v15-1;AGRI-UT-101;AGRI;Agriculture;UT;Utilités;Moto-variateur synchrone à aimants permanents ou à reluctance;A15-1;01/01/2015;22/12/2016;1;1;1
+AGRI-UT-101v24-2;AGRI-UT-101;AGRI;Agriculture;UT;Utilités;Moto-variateur synchrone à aimants permanents ou à reluctance;A24-2;23/12/2016;;1;1;2
+AGRI-UT-102v14-1;AGRI-UT-102;AGRI;Agriculture;UT;Utilités;Système de variation électronique de vitesse sur un moteur asynchrone;A14-1;01/01/2015;31/05/2016;1;1;1
+AGRI-UT-102v22-2;AGRI-UT-102;AGRI;Agriculture;UT;Utilités;Système de variation électronique de vitesse sur un moteur asynchrone;A22-2;01/06/2016;;1;1;2
+AGRI-UT-103v19-1;AGRI-UT-103;AGRI;Agriculture;UT;Utilités;Système de régulation sur un groupe de production de froid permettant d'avoir une basse pression flottante;A19-1;04/01/2016;;1;1;1
+AGRI-UT-104v23-1;AGRI-UT-104;AGRI;Agriculture;UT;Utilités;Système de régulation sur un groupe de production de froid permettant d'avoir une haute pression flottante;A23-1;01/01/2015;;1;1;1
+BAR-EN-101v14-1;BAR-EN-101;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures;A14-1;01/01/2015;31/03/2018;1;0;1
+BAR-EN-101v27-2;BAR-EN-101;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures;A27-2;01/04/2018;31/08/2020;1;0;2
+BAR-EN-101v33-3;BAR-EN-101;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures;A33-3;01/09/2020;30/04/2022;1;0;3
+BAR-EN-101v39-4;BAR-EN-101;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures;A39-4;01/05/2022;31/12/2023;1;0;4
+BAR-EN-101v54-5;BAR-EN-101;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures;A54-5;01/01/2024;30/04/2027;1;0;5
+BAR-EN-102v14-1;BAR-EN-102;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des murs;A14-1;01/01/2015;30/04/2022;1;0;1
+BAR-EN-102v39-2;BAR-EN-102;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des murs;A39-2;01/05/2022;;1;0;2
+BAR-EN-103v14-1;BAR-EN-103;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation d'un plancher;A14-1;01/01/2015;31/03/2019;1;1;1
+BAR-EN-103v29-2;BAR-EN-103;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation d'un plancher;A29-2;01/04/2019;31/08/2020;1;1;2
+BAR-EN-103v33-3;BAR-EN-103;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation d'un plancher;A33-3;01/09/2020;11/10/2020;1;1;3
+BAR-EN-103v36-4;BAR-EN-103;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation d'un plancher;A36-4;12/10/2020;30/04/2022;1;1;4
+BAR-EN-103v39-5;BAR-EN-103;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation d'un plancher;A39-5;01/05/2022;;1;1;5
+BAR-EN-104v14-1;BAR-EN-104;BAR;Bâtiment Résidentiel;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage isolant;A14-1;01/01/2015;31/12/2023;1;1;1
+BAR-EN-104v54-2;BAR-EN-104;BAR;Bâtiment Résidentiel;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage isolant;A54-2;01/01/2024;30/06/2028;1;1;2
+BAR-EN-105v14-1;BAR-EN-105;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des toitures terrasses;A14-1;01/01/2015;31/03/2021;1;1;1
+BAR-EN-105v37-2;BAR-EN-105;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des toitures terrasses;A37-2;01/04/2021;30/04/2022;1;1;2
+BAR-EN-105v39-3;BAR-EN-105;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des toitures terrasses;A39-3;01/05/2022;;1;1;3
+BAR-EN-106v15-1;BAR-EN-106;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A15-1;01/01/2015;04/10/2015;0;1;1
+BAR-EN-106v18-2;BAR-EN-106;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A18-2;05/10/2015;12/03/2016;0;1;2
+BAR-EN-106v20-3;BAR-EN-106;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A20-3;13/03/2016;31/08/2020;0;1;3
+BAR-EN-106v33-4;BAR-EN-106;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A33-4;01/09/2020;;0;1;4
+BAR-EN-107v15-1;BAR-EN-107;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des murs (France d'outre-mer);A15-1;01/01/2015;04/10/2015;0;1;1
+BAR-EN-107v18-2;BAR-EN-107;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des murs (France d'outre-mer);A18-2;05/10/2015;12/03/2016;0;1;2
+BAR-EN-107v20-3;BAR-EN-107;BAR;Bâtiment Résidentiel;EN;Enveloppe;Isolation des murs (France d'outre-mer);A20-3;13/03/2016;;0;1;3
+BAR-EN-108v14-1;BAR-EN-108;BAR;Bâtiment Résidentiel;EN;Enveloppe;Fermeture isolante;A14-1;01/01/2015;31/03/2021;1;1;1
+BAR-EN-108v37-2;BAR-EN-108;BAR;Bâtiment Résidentiel;EN;Enveloppe;Fermeture isolante;A37-2;01/04/2021;31/12/2023;1;1;2
+BAR-EN-108v54-3;BAR-EN-108;BAR;Bâtiment Résidentiel;EN;Enveloppe;Fermeture isolante;A54-3;01/01/2024;30/06/2028;1;1;3
+BAR-EN-109v24-1;BAR-EN-109;BAR;Bâtiment Résidentiel;EN;Enveloppe;Réduction des apports solaires par la toiture (France d'outre-mer);A24-1;23/12/2016;;0;1;1
+BAR-EN-110v35-1;BAR-EN-110;BAR;Bâtiment Résidentiel;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage pariétodynamique;A35-1;03/08/2020;;1;1;1
+BAR-EQ-101v14-1;BAR-EQ-101;BAR;Bâtiment Résidentiel;EQ;Equipement;Lampe fluo-compacte de classe A;A14-1;01/01/2015;30/09/2017;1;1;1
+BAR-EQ-102v15-1;BAR-EQ-102;BAR;Bâtiment Résidentiel;EQ;Equipement;Lave-linge ménager de classe A++ ou A+++;A15-1;01/01/2015;31/08/2022;1;1;1
+BAR-EQ-103v15-1;BAR-EQ-103;BAR;Bâtiment Résidentiel;EQ;Equipement;Appareil de réfrigération ménager de classe A++ ou A+++;A15-1;01/01/2015;31/08/2022;1;1;1
+BAR-EQ-110v15-1;BAR-EQ-110;BAR;Bâtiment Résidentiel;EQ;Equipement;Luminaire à modules LED avec dispositif de contrôle pour les parties communes;A15-1;01/01/2015;;1;1;1
 BAR-EQ-111v14-1;BAR-EQ-111;BAR;Bâtiment Résidentiel;EQ;Equipement;"Lampe à LED de classe A+ (< 01/10/2017)
 Lampe de classe A++
-(> 01/10/2017)";A14-1;2015-01-01;2016-06-30;1;1;1
+(> 01/10/2017)";A14-1;01/01/2015;30/06/2016;1;1;1
 BAR-EQ-111v21-2;BAR-EQ-111;BAR;Bâtiment Résidentiel;EQ;Equipement;"Lampe à LED de classe A+ (< 01/10/2017)
 Lampe de classe A++
-(> 01/10/2017)";A21-2;2016-07-01;2017-09-30;1;1;2
+(> 01/10/2017)";A21-2;01/07/2016;30/09/2017;1;1;2
 BAR-EQ-111v26-3;BAR-EQ-111;BAR;Bâtiment Résidentiel;EQ;Equipement;"Lampe à LED de classe A+ (< 01/10/2017)
 Lampe de classe A++
-(> 01/10/2017)";A26-3;2017-10-01;2022-03-31;1;1;3
-BAR-EQ-112v14-1;BAR-EQ-112;BAR;Bâtiment Résidentiel;EQ;Equipement;Systèmes hydroéconomes (France métropolitaine);A14-1;2015-01-01;2014-12-31;1;0;1
-BAR-EQ-112v15-2;BAR-EQ-112;BAR;Bâtiment Résidentiel;EQ;Equipement;Systèmes hydroéconomes (France métropolitaine);A15-2;2015-01-01;2016-04-30;1;0;2
-BAR-EQ-113v17-1;BAR-EQ-113;BAR;Bâtiment Résidentiel;EQ;Equipement;Dispositif d'affichage et d'interprétation des consommations pour un logement chauffé à l'électricité;A17-1;2015-01-01;2018-12-31;1;1;1
-BAR-EQ-114v17-1;BAR-EQ-114;BAR;Bâtiment Résidentiel;EQ;Equipement;Dispositif d'affichage et d'interprétation des consommations d'énergie pour un logement chauffé au combustible;A17-1;2015-01-01;2018-12-31;1;1;1
-BAR-EQ-115v28-1;BAR-EQ-115;BAR;Bâtiment Résidentiel;EQ;Equipement;Dispositif d'affichage et d'interprétation des consommations d'énergie;A28-1;2019-01-01;;1;1;1
-BAR-SE-104v19-1;BAR-SE-104;BAR;Bâtiment Résidentiel;SE;Service;Réglage des organes d'équilibrage d'une installation de chauffage à eau chaude;A19-1;2016-01-04;;1;1;1
-BAR-SE-105v28-1;BAR-SE-105;BAR;Bâtiment Résidentiel;SE;Service;Contrat de Performance Energétique Services (CPE Services);A28-1;2018-12-19;;1;1;1
-BAR-SE-107v37-1;BAR-SE-107;BAR;Bâtiment Résidentiel;SE;Service;Abaissement de la température de retour vers un réseau de chaleur;A37-1;2020-12-31;;1;0;1
-BAR-SE-108v48-1;BAR-SE-108;BAR;Bâtiment Résidentiel;SE;Service;Désembouage d'un réseau hydraulique individuel de chauffage en France métropolitaine;A48-1;2022-10-14;;1;0;1
-BAR-SE-109v54-1;BAR-SE-109;BAR;Bâtiment Résidentiel;SE;Service;Désembouage d'un réseau hydraulique de chauffage collectif en France métropolitaine;A54-1;2023-09-30;;1;0;1
-BAR-TH-101v17-1;BAR-TH-101;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire individuel (France métropolitaine);A17-1;2015-01-01;;1;0;1
-BAR-TH-102v17-1;BAR-TH-102;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire collectif (France métropolitaine);A17-1;2015-01-01;;1;0;1
-BAR-TH-104v14-1;BAR-TH-104;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A14-1;2015-01-01;2017-01-31;1;1;1
-BAR-TH-104v23-2;BAR-TH-104;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A23-2;2017-02-01;2022-03-31;1;1;2
-BAR-TH-104v41-3;BAR-TH-104;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A41-3;2022-04-01;;1;1;3
-BAR-TH-106v14-1;BAR-TH-106;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière individuelle à haute performance énergétique;A14-1;2015-01-01;2017-01-31;1;1;1
-BAR-TH-106v23-2;BAR-TH-106;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière individuelle à haute performance énergétique;A23-2;2017-02-01;;1;1;2
-BAR-TH-107v14-1;BAR-TH-107;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière collective haute performance énergétique;A14-1;2015-01-01;;1;1;1
-BAR-TH-107-SEv14-1;BAR-TH-107-SE;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière collective haute performance énergétique avec contrat assurant la conduite de l'installation;A14-1;2015-01-01;;1;1;1
-BAR-TH-110v16-1;BAR-TH-110;BAR;Bâtiment Résidentiel;TH;Thermique;Radiateur basse température pour un chauffage central;A16-1;2015-01-01;;1;1;1
-BAR-TH-111v17-1;BAR-TH-111;BAR;Bâtiment Résidentiel;TH;Thermique;Régulation par sonde de température extérieure;A17-1;2015-01-01;;1;1;1
-BAR-TH-112v14-1;BAR-TH-112;BAR;Bâtiment Résidentiel;TH;Thermique;Appareil indépendant de chauffage au bois;A14-1;2015-01-01;2020-09-30;1;1;1
-BAR-TH-112v35-2;BAR-TH-112;BAR;Bâtiment Résidentiel;TH;Thermique;Appareil indépendant de chauffage au bois;A35-2;2020-10-01;2022-09-30;1;1;2
-BAR-TH-112v46-3;BAR-TH-112;BAR;Bâtiment Résidentiel;TH;Thermique;Appareil indépendant de chauffage au bois;A46-3;2022-10-01;;1;1;3
-BAR-TH-113v14-1;BAR-TH-113;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière biomasse individuelle;A14-1;2015-01-01;2021-03-31;1;1;1
-BAR-TH-113v37-2;BAR-TH-113;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière biomasse individuelle;A37-2;2021-04-01;2022-03-31;1;1;2
-BAR-TH-113v41-3;BAR-TH-113;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière biomasse individuelle;A41-3;2022-04-01;;1;1;3
-BAR-TH-115v16-1;BAR-TH-115;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique de chauffage;A16-1;2015-01-01;2016-03-12;1;1;1
-BAR-TH-115v20-2;BAR-TH-115;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique de chauffage;A20-2;2016-03-13;2018-03-31;1;1;2
-BAR-TH-116v17-1;BAR-TH-116;BAR;Bâtiment Résidentiel;TH;Thermique;Plancher chauffant hydraulique à basse température;A17-1;2015-01-01;;1;1;1
-BAR-TH-117v14-1;BAR-TH-117;BAR;Bâtiment Résidentiel;TH;Thermique;Robinet thermostatique;A14-1;2015-01-01;;1;1;1
-BAR-TH-118v14-1;BAR-TH-118;BAR;Bâtiment Résidentiel;TH;Thermique;Système de régulation par programmation d'intermittence;A14-1;2015-01-01;;1;1;1
-BAR-TH-121v16-1;BAR-TH-121;BAR;Bâtiment Résidentiel;TH;Thermique;Système de comptage individuel d'énergie de chauffage;A16-1;2015-01-01;2018-03-31;1;1;1
-BAR-TH-121v27-2;BAR-TH-121;BAR;Bâtiment Résidentiel;TH;Thermique;Système de comptage individuel d'énergie de chauffage;A27-2;2018-04-01;2020-09-30;1;1;2
-BAR-TH-122v15-1;BAR-TH-122;BAR;Bâtiment Résidentiel;TH;Thermique;Récupérateur de chaleur à condensation;A15-1;2015-01-01;;1;1;1
-BAR-TH-123v17-1;BAR-TH-123;BAR;Bâtiment Résidentiel;TH;Thermique;Optimiseur de relance en chauffage collectif;A17-1;2015-01-01;2023-12-31;1;1;1
-BAR-TH-123v54-2;BAR-TH-123;BAR;Bâtiment Résidentiel;TH;Thermique;Optimiseur de relance en chauffage collectif;A54-2;2024-01-01;2028-06-30;1;1;2
-BAR-TH-124v14-1;BAR-TH-124;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire individuel (France d'outre mer);A14-1;2015-01-01;2015-10-04;0;1;1
-BAR-TH-124v18-2;BAR-TH-124;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire individuel (France d'outre mer);A18-2;2015-10-05;2020-09-30;0;1;2
-BAR-TH-124v35-3;BAR-TH-124;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire individuel (France d'outre mer);A35-3;2020-10-01;;0;1;3
-BAR-TH-125v16-1;BAR-TH-125;BAR;Bâtiment Résidentiel;TH;Thermique;Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine);A16-1;2015-01-01;2020-03-31;1;0;1
-BAR-TH-125v32-2;BAR-TH-125;BAR;Bâtiment Résidentiel;TH;Thermique;Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine);A32-2;2020-04-01;2020-10-11;1;0;2
-BAR-TH-125v36-3;BAR-TH-125;BAR;Bâtiment Résidentiel;TH;Thermique;Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine);A36-3;2020-10-12;2022-03-31;1;0;3
-BAR-TH-125v40-4;BAR-TH-125;BAR;Bâtiment Résidentiel;TH;Thermique;Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine);A40-4;2022-04-01;2023-12-31;1;0;4
-BAR-TH-125v54-5;BAR-TH-125;BAR;Bâtiment Résidentiel;TH;Thermique;Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine);A54-5;2024-01-01;2028-06-30;1;0;5
-BAR-TH-127v16-1;BAR-TH-127;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation mécanique simple flux hygroréglable (France métropolitaine);A16-1;2015-01-01;2020-03-31;1;0;1
-BAR-TH-127v32-2;BAR-TH-127;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation mécanique simple flux hygroréglable (France métropolitaine);A32-2;2020-04-01;2020-10-11;1;0;2
-BAR-TH-127v36-3;BAR-TH-127;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation mécanique simple flux hygroréglable (France métropolitaine);A36-3;2020-10-12;2022-03-31;1;0;3
-BAR-TH-127v40-4;BAR-TH-127;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation mécanique simple flux hygroréglable (France métropolitaine);A40-4;2022-04-01;2023-12-31;1;0;4
-BAR-TH-127v54-5;BAR-TH-127;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation mécanique simple flux hygroréglable (France métropolitaine);A54-5;2024-01-01;2028-06-30;1;0;5
-BAR-TH-129v14-1;BAR-TH-129;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type air/air;A14-1;2015-01-01;2015-06-30;1;1;1
-BAR-TH-129v17-2;BAR-TH-129;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type air/air;A17-2;2015-07-01;2018-03-31;1;1;2
-BAR-TH-129v27-3;BAR-TH-129;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type air/air;A27-3;2018-04-01;;1;1;3
-BAR-TH-130v26-1;BAR-TH-130;BAR;Bâtiment Résidentiel;TH;Thermique;Surperformance énergétique pour un bâtiment neuf (France métropolitaine);A26-1;2015-01-01;2023-12-31;1;0;1
-BAR-TH-130v54-2;BAR-TH-130;BAR;Bâtiment Résidentiel;TH;Thermique;Surperformance énergétique pour un bâtiment neuf (France métropolitaine);A54-2;2024-01-01;2027-12-31;1;0;2
-BAR-TH-131v16-1;BAR-TH-131;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique d'eau chaude sanitaire;A16-1;2015-01-01;2016-03-12;1;1;1
-BAR-TH-131v20-2;BAR-TH-131;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique d'eau chaude sanitaire;A20-2;2016-03-13;2018-03-31;1;1;2
-BAR-TH-135v14-1;BAR-TH-135;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire collectif (France d'outre mer);A14-1;2015-01-01;2020-09-30;0;1;1
-BAR-TH-135v35-2;BAR-TH-135;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire collectif (France d'outre mer);A35-2;2020-10-01;;0;1;2
-BAR-TH-137v17-1;BAR-TH-137;BAR;Bâtiment Résidentiel;TH;Thermique;Raccordement d'un bâtiment résidentiel à un réseau de chaleur;A17-1;2015-01-01;2020-09-30;1;1;1
-BAR-TH-137v35-2;BAR-TH-137;BAR;Bâtiment Résidentiel;TH;Thermique;Raccordement d'un bâtiment résidentiel à un réseau de chaleur;A35-2;2020-10-01;2022-08-31;1;1;2
-BAR-TH-137v45-3;BAR-TH-137;BAR;Bâtiment Résidentiel;TH;Thermique;Raccordement d'un bâtiment résidentiel à un réseau de chaleur;A45-3;2022-09-01;;1;1;3
-BAR-TH-139v14-1;BAR-TH-139;BAR;Bâtiment Résidentiel;TH;Thermique;Système de variation électronique de vitesse sur une pompe;A14-1;2015-01-01;2017-01-31;1;1;1
-BAR-TH-139v23-2;BAR-TH-139;BAR;Bâtiment Résidentiel;TH;Thermique;Système de variation électronique de vitesse sur une pompe;A23-2;2017-02-01;;1;1;2
-BAR-TH-141v15-1;BAR-TH-141;BAR;Bâtiment Résidentiel;TH;Thermique;Climatiseur performant (France d'outre-mer);A15-1;2015-01-01;;0;1;1
-BAR-TH-143v25-1;BAR-TH-143;BAR;Bâtiment Résidentiel;TH;Thermique;Système solaire combiné (France métropolitaine);A25-1;2015-01-01;2023-02-28;1;0;1
-BAR-TH-143v51-5;BAR-TH-143;BAR;Bâtiment Résidentiel;TH;Thermique;Système solaire combiné (France métropolitaine);A51-5;2023-03-01;;1;0;2
-BAR-TH-145v19-1;BAR-TH-145;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'un bâtiment résidentiel (France métropolitaine);A19-1;2015-01-01;2020-03-31;1;0;1
-BAR-TH-145v32-2;BAR-TH-145;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'un bâtiment résidentiel (France métropolitaine);A32-2;2020-04-01;2020-10-11;1;0;2
-BAR-TH-145v36-3;BAR-TH-145;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'un bâtiment résidentiel (France métropolitaine);A36-3;2020-10-12;2023-07-31;1;0;3
-BAR-TH-145v52-4;BAR-TH-145;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'un bâtiment résidentiel (France métropolitaine);A52-4;2023-08-01;;1;0;4
-BAR-TH-148v14-1;BAR-TH-148;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau thermodynamique à accumulation;A14-1;2015-01-01;2014-12-31;1;1;1
-BAR-TH-148v15-2;BAR-TH-148;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau thermodynamique à accumulation;A15-2;2015-01-01;;1;1;2
-BAR-TH-150v14-1;BAR-TH-150;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur collective à absorption de type air/eau ou eau/eau;A14-1;2015-01-01;;1;1;1
-BAR-TH-155v16-1;BAR-TH-155;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation hybride hygroréglable (France métropolitaine);A16-1;2015-01-01;2020-03-31;1;0;1
-BAR-TH-155v32-2;BAR-TH-155;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation hybride hygroréglable (France métropolitaine);A32-2;2020-04-01;2020-10-11;1;0;2
-BAR-TH-155v36-3;BAR-TH-155;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation hybride hygroréglable (France métropolitaine);A36-3;2020-10-12;2022-03-31;1;0;3
-BAR-TH-155v40-4;BAR-TH-155;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation hybride hygroréglable (France métropolitaine);A40-4;2022-04-01;;1;0;4
-BAR-TH-158v15-1;BAR-TH-158;BAR;Bâtiment Résidentiel;TH;Thermique;Émetteur électrique à régulation électronique à fonctions avancées;A15-1;2015-01-01;2020-09-30;1;1;1
-BAR-TH-158v35-2;BAR-TH-158;BAR;Bâtiment Résidentiel;TH;Thermique;Émetteur électrique à régulation électronique à fonctions avancées;A35-2;2020-10-01;;1;1;2
-BAR-TH-159v26-1;BAR-TH-159;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur hybride individuelle;A26-1;2017-08-09;2022-03-31;1;1;1
-BAR-TH-159v41-2;BAR-TH-159;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur hybride individuelle;A41-2;2022-04-01;2022-10-31;1;1;2
-BAR-TH-159v44-3;BAR-TH-159;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur hybride individuelle;A44-3;2022-11-01;2023-03-31;1;1;3
-BAR-TH-159v50-4;BAR-TH-159;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur hybride individuelle;A50-4;2023-04-01;;1;1;4
-BAR-TH-160v27-1;BAR-TH-160;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A27-1;2018-04-01;2022-04-30;1;0;1
-BAR-TH-160v39-2;BAR-TH-160;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A39-2;2022-05-01;2023-03-31;1;0;2
-BAR-TH-160v50-3;BAR-TH-160;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A50-3;2023-04-01;2023-09-30;1;0;3
-BAR-TH-160v54-4;BAR-TH-160;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A54-4;2023-10-01;2028-03-31;1;0;4
-BAR-TH-161v28-1;BAR-TH-161;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation de points singuliers d'un réseau;A28-1;2018-12-19;2023-09-30;1;1;1
-BAR-TH-161v54-2;BAR-TH-161;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation de points singuliers d'un réseau;A54-2;2023-10-01;;1;1;2
-BAR-TH-162v28-1;BAR-TH-162;BAR;Bâtiment Résidentiel;TH;Thermique;Système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d'eau (France métropolitaine);A28-1;2018-12-19;;1;0;1
-BAR-TH-163v30-1;BAR-TH-163;BAR;Bâtiment Résidentiel;TH;Thermique;Conduit d'évacuation des produits de combustion;A30-1;2019-06-10;2021-10-31;1;1;1
-BAR-TH-163v38-2;BAR-TH-163;BAR;Bâtiment Résidentiel;TH;Thermique;Conduit d'évacuation des produits de combustion;A38-2;2021-11-01;;1;1;2
-BAR-TH-164v31-1;BAR-TH-164;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'une maison individuelle (France métropolitaine);A31-1;2019-09-01;2020-10-11;1;0;1
-BAR-TH-164v36-2;BAR-TH-164;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'une maison individuelle (France métropolitaine);A36-2;2020-10-12;2023-07-31;1;0;2
-BAR-TH-164v52-3;BAR-TH-164;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'une maison individuelle (France métropolitaine);A52-3;2023-07-01;;1;0;3
-BAR-TH-165v34-1;BAR-TH-165;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière biomasse collective;A34-1;2020-05-20;;1;1;1
-BAR-TH-166v38-1;BAR-TH-166;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur collective de type air/eau ou eau/eau;A38-1;2021-07-31;;1;1;1
+(> 01/10/2017)";A26-3;01/10/2017;31/03/2022;1;1;3
+BAR-EQ-112v14-1;BAR-EQ-112;BAR;Bâtiment Résidentiel;EQ;Equipement;Systèmes hydroéconomes (France métropolitaine);A14-1;01/01/2015;31/12/2014;1;0;1
+BAR-EQ-112v15-2;BAR-EQ-112;BAR;Bâtiment Résidentiel;EQ;Equipement;Systèmes hydroéconomes (France métropolitaine);A15-2;01/01/2015;30/04/2016;1;0;2
+BAR-EQ-113v17-1;BAR-EQ-113;BAR;Bâtiment Résidentiel;EQ;Equipement;Dispositif d'affichage et d'interprétation des consommations pour un logement chauffé à l'électricité;A17-1;01/01/2015;31/12/2018;1;1;1
+BAR-EQ-114v17-1;BAR-EQ-114;BAR;Bâtiment Résidentiel;EQ;Equipement;Dispositif d'affichage et d'interprétation des consommations d'énergie pour un logement chauffé au combustible;A17-1;01/01/2015;31/12/2018;1;1;1
+BAR-EQ-115v28-1;BAR-EQ-115;BAR;Bâtiment Résidentiel;EQ;Equipement;Dispositif d'affichage et d'interprétation des consommations d'énergie;A28-1;01/01/2019;;1;1;1
+BAR-SE-104v19-1;BAR-SE-104;BAR;Bâtiment Résidentiel;SE;Service;Réglage des organes d'équilibrage d'une installation de chauffage à eau chaude;A19-1;04/01/2016;;1;1;1
+BAR-SE-105v28-1;BAR-SE-105;BAR;Bâtiment Résidentiel;SE;Service;Contrat de Performance Energétique Services (CPE Services);A28-1;19/12/2018;;1;1;1
+BAR-SE-107v37-1;BAR-SE-107;BAR;Bâtiment Résidentiel;SE;Service;Abaissement de la température de retour vers un réseau de chaleur;A37-1;31/12/2020;;1;0;1
+BAR-SE-108v48-1;BAR-SE-108;BAR;Bâtiment Résidentiel;SE;Service;Désembouage d'un réseau hydraulique individuel de chauffage en France métropolitaine;A48-1;14/10/2022;;1;0;1
+BAR-SE-109v54-1;BAR-SE-109;BAR;Bâtiment Résidentiel;SE;Service;Désembouage d'un réseau hydraulique de chauffage collectif en France métropolitaine;A54-1;30/09/2023;;1;0;1
+BAR-TH-101v17-1;BAR-TH-101;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire individuel (France métropolitaine);A17-1;01/01/2015;;1;0;1
+BAR-TH-102v17-1;BAR-TH-102;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire collectif (France métropolitaine);A17-1;01/01/2015;;1;0;1
+BAR-TH-104v14-1;BAR-TH-104;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A14-1;01/01/2015;31/01/2017;1;1;1
+BAR-TH-104v23-2;BAR-TH-104;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A23-2;01/02/2017;31/03/2022;1;1;2
+BAR-TH-104v41-3;BAR-TH-104;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A41-3;01/04/2022;31/12/2023;1;1;3
+BAR-TH-106v14-1;BAR-TH-106;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière individuelle à haute performance énergétique;A14-1;01/01/2015;31/01/2017;1;1;1
+BAR-TH-106v23-2;BAR-TH-106;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière individuelle à haute performance énergétique;A23-2;01/02/2017;31/12/2023;1;1;2
+BAR-TH-107v14-1;BAR-TH-107;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière collective haute performance énergétique;A14-1;01/01/2015;;1;1;1
+BAR-TH-107-SEv14-1;BAR-TH-107-SE;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière collective haute performance énergétique avec contrat assurant la conduite de l'installation;A14-1;01/01/2015;;1;1;1
+BAR-TH-110v16-1;BAR-TH-110;BAR;Bâtiment Résidentiel;TH;Thermique;Radiateur basse température pour un chauffage central;A16-1;01/01/2015;;1;1;1
+BAR-TH-111v17-1;BAR-TH-111;BAR;Bâtiment Résidentiel;TH;Thermique;Régulation par sonde de température extérieure;A17-1;01/01/2015;;1;1;1
+BAR-TH-112v14-1;BAR-TH-112;BAR;Bâtiment Résidentiel;TH;Thermique;Appareil indépendant de chauffage au bois;A14-1;01/01/2015;30/09/2020;1;1;1
+BAR-TH-112v35-2;BAR-TH-112;BAR;Bâtiment Résidentiel;TH;Thermique;Appareil indépendant de chauffage au bois;A35-2;01/10/2020;30/09/2022;1;1;2
+BAR-TH-112v46-3;BAR-TH-112;BAR;Bâtiment Résidentiel;TH;Thermique;Appareil indépendant de chauffage au bois;A46-3;01/10/2022;;1;1;3
+BAR-TH-113v14-1;BAR-TH-113;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière biomasse individuelle;A14-1;01/01/2015;31/03/2021;1;1;1
+BAR-TH-113v37-2;BAR-TH-113;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière biomasse individuelle;A37-2;01/04/2021;31/03/2022;1;1;2
+BAR-TH-113v41-3;BAR-TH-113;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière biomasse individuelle;A41-3;01/04/2022;;1;1;3
+BAR-TH-115v16-1;BAR-TH-115;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique de chauffage;A16-1;01/01/2015;12/03/2016;1;1;1
+BAR-TH-115v20-2;BAR-TH-115;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique de chauffage;A20-2;13/03/2016;31/03/2018;1;1;2
+BAR-TH-116v17-1;BAR-TH-116;BAR;Bâtiment Résidentiel;TH;Thermique;Plancher chauffant hydraulique à basse température;A17-1;01/01/2015;;1;1;1
+BAR-TH-117v14-1;BAR-TH-117;BAR;Bâtiment Résidentiel;TH;Thermique;Robinet thermostatique;A14-1;01/01/2015;;1;1;1
+BAR-TH-118v14-1;BAR-TH-118;BAR;Bâtiment Résidentiel;TH;Thermique;Système de régulation par programmation d'intermittence;A14-1;01/01/2015;;1;1;1
+BAR-TH-121v16-1;BAR-TH-121;BAR;Bâtiment Résidentiel;TH;Thermique;Système de comptage individuel d'énergie de chauffage;A16-1;01/01/2015;31/03/2018;1;1;1
+BAR-TH-121v27-2;BAR-TH-121;BAR;Bâtiment Résidentiel;TH;Thermique;Système de comptage individuel d'énergie de chauffage;A27-2;01/04/2018;30/09/2020;1;1;2
+BAR-TH-122v15-1;BAR-TH-122;BAR;Bâtiment Résidentiel;TH;Thermique;Récupérateur de chaleur à condensation;A15-1;01/01/2015;;1;1;1
+BAR-TH-123v17-1;BAR-TH-123;BAR;Bâtiment Résidentiel;TH;Thermique;Optimiseur de relance en chauffage collectif;A17-1;01/01/2015;31/12/2023;1;1;1
+BAR-TH-123v54-2;BAR-TH-123;BAR;Bâtiment Résidentiel;TH;Thermique;Optimiseur de relance en chauffage collectif;A54-2;01/01/2024;30/06/2028;1;1;2
+BAR-TH-124v14-1;BAR-TH-124;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire individuel (France d'outre mer);A14-1;01/01/2015;04/10/2015;0;1;1
+BAR-TH-124v18-2;BAR-TH-124;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire individuel (France d'outre mer);A18-2;05/10/2015;30/09/2020;0;1;2
+BAR-TH-124v35-3;BAR-TH-124;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire individuel (France d'outre mer);A35-3;01/10/2020;;0;1;3
+BAR-TH-125v16-1;BAR-TH-125;BAR;Bâtiment Résidentiel;TH;Thermique;Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine);A16-1;01/01/2015;31/03/2020;1;0;1
+BAR-TH-125v32-2;BAR-TH-125;BAR;Bâtiment Résidentiel;TH;Thermique;Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine);A32-2;01/04/2020;11/10/2020;1;0;2
+BAR-TH-125v36-3;BAR-TH-125;BAR;Bâtiment Résidentiel;TH;Thermique;Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine);A36-3;12/10/2020;31/03/2022;1;0;3
+BAR-TH-125v40-4;BAR-TH-125;BAR;Bâtiment Résidentiel;TH;Thermique;Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine);A40-4;01/04/2022;31/12/2023;1;0;4
+BAR-TH-125v54-5;BAR-TH-125;BAR;Bâtiment Résidentiel;TH;Thermique;Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine);A54-5;01/01/2024;30/06/2028;1;0;5
+BAR-TH-127v16-1;BAR-TH-127;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation mécanique simple flux hygroréglable (France métropolitaine);A16-1;01/01/2015;31/03/2020;1;0;1
+BAR-TH-127v32-2;BAR-TH-127;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation mécanique simple flux hygroréglable (France métropolitaine);A32-2;01/04/2020;11/10/2020;1;0;2
+BAR-TH-127v36-3;BAR-TH-127;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation mécanique simple flux hygroréglable (France métropolitaine);A36-3;12/10/2020;31/03/2022;1;0;3
+BAR-TH-127v40-4;BAR-TH-127;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation mécanique simple flux hygroréglable (France métropolitaine);A40-4;01/04/2022;31/12/2023;1;0;4
+BAR-TH-127v54-5;BAR-TH-127;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation mécanique simple flux hygroréglable (France métropolitaine);A54-5;01/01/2024;30/06/2028;1;0;5
+BAR-TH-129v14-1;BAR-TH-129;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type air/air;A14-1;01/01/2015;30/06/2015;1;1;1
+BAR-TH-129v17-2;BAR-TH-129;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type air/air;A17-2;01/07/2015;31/03/2018;1;1;2
+BAR-TH-129v27-3;BAR-TH-129;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type air/air;A27-3;01/04/2018;;1;1;3
+BAR-TH-130v26-1;BAR-TH-130;BAR;Bâtiment Résidentiel;TH;Thermique;Surperformance énergétique pour un bâtiment neuf (France métropolitaine);A26-1;01/01/2015;31/12/2023;1;0;1
+BAR-TH-130v54-2;BAR-TH-130;BAR;Bâtiment Résidentiel;TH;Thermique;Surperformance énergétique pour un bâtiment neuf (France métropolitaine);A54-2;01/01/2024;31/12/2027;1;0;2
+BAR-TH-131v16-1;BAR-TH-131;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique d'eau chaude sanitaire;A16-1;01/01/2015;12/03/2016;1;1;1
+BAR-TH-131v20-2;BAR-TH-131;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique d'eau chaude sanitaire;A20-2;13/03/2016;31/03/2018;1;1;2
+BAR-TH-135v14-1;BAR-TH-135;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire collectif (France d'outre mer);A14-1;01/01/2015;30/09/2020;0;1;1
+BAR-TH-135v35-2;BAR-TH-135;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau solaire collectif (France d'outre mer);A35-2;01/10/2020;;0;1;2
+BAR-TH-137v17-1;BAR-TH-137;BAR;Bâtiment Résidentiel;TH;Thermique;Raccordement d'un bâtiment résidentiel à un réseau de chaleur;A17-1;01/01/2015;30/09/2020;1;1;1
+BAR-TH-137v35-2;BAR-TH-137;BAR;Bâtiment Résidentiel;TH;Thermique;Raccordement d'un bâtiment résidentiel à un réseau de chaleur;A35-2;01/10/2020;31/08/2022;1;1;2
+BAR-TH-137v45-3;BAR-TH-137;BAR;Bâtiment Résidentiel;TH;Thermique;Raccordement d'un bâtiment résidentiel à un réseau de chaleur;A45-3;01/09/2022;;1;1;3
+BAR-TH-139v14-1;BAR-TH-139;BAR;Bâtiment Résidentiel;TH;Thermique;Système de variation électronique de vitesse sur une pompe;A14-1;01/01/2015;31/01/2017;1;1;1
+BAR-TH-139v23-2;BAR-TH-139;BAR;Bâtiment Résidentiel;TH;Thermique;Système de variation électronique de vitesse sur une pompe;A23-2;01/02/2017;;1;1;2
+BAR-TH-141v15-1;BAR-TH-141;BAR;Bâtiment Résidentiel;TH;Thermique;Climatiseur performant (France d'outre-mer);A15-1;01/01/2015;;0;1;1
+BAR-TH-143v25-1;BAR-TH-143;BAR;Bâtiment Résidentiel;TH;Thermique;Système solaire combiné (France métropolitaine);A25-1;01/01/2015;28/02/2023;1;0;1
+BAR-TH-143v51-5;BAR-TH-143;BAR;Bâtiment Résidentiel;TH;Thermique;Système solaire combiné (France métropolitaine);A51-5;01/03/2023;;1;0;2
+BAR-TH-145v19-1;BAR-TH-145;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'un bâtiment résidentiel (France métropolitaine);A19-1;01/01/2015;31/03/2020;1;0;1
+BAR-TH-145v32-2;BAR-TH-145;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'un bâtiment résidentiel (France métropolitaine);A32-2;01/04/2020;11/10/2020;1;0;2
+BAR-TH-145v36-3;BAR-TH-145;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'un bâtiment résidentiel (France métropolitaine);A36-3;12/10/2020;31/07/2023;1;0;3
+BAR-TH-145v52-4;BAR-TH-145;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'un bâtiment résidentiel (France métropolitaine);A52-4;01/08/2023;;1;0;4
+BAR-TH-148v14-1;BAR-TH-148;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau thermodynamique à accumulation;A14-1;01/01/2015;31/12/2014;1;1;1
+BAR-TH-148v15-2;BAR-TH-148;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-eau thermodynamique à accumulation;A15-2;01/01/2015;;1;1;2
+BAR-TH-150v14-1;BAR-TH-150;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur collective à absorption de type air/eau ou eau/eau;A14-1;01/01/2015;;1;1;1
+BAR-TH-155v16-1;BAR-TH-155;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation hybride hygroréglable (France métropolitaine);A16-1;01/01/2015;31/03/2020;1;0;1
+BAR-TH-155v32-2;BAR-TH-155;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation hybride hygroréglable (France métropolitaine);A32-2;01/04/2020;11/10/2020;1;0;2
+BAR-TH-155v36-3;BAR-TH-155;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation hybride hygroréglable (France métropolitaine);A36-3;12/10/2020;31/03/2022;1;0;3
+BAR-TH-155v40-4;BAR-TH-155;BAR;Bâtiment Résidentiel;TH;Thermique;Ventilation hybride hygroréglable (France métropolitaine);A40-4;01/04/2022;;1;0;4
+BAR-TH-158v15-1;BAR-TH-158;BAR;Bâtiment Résidentiel;TH;Thermique;Émetteur électrique à régulation électronique à fonctions avancées;A15-1;01/01/2015;30/09/2020;1;1;1
+BAR-TH-158v35-2;BAR-TH-158;BAR;Bâtiment Résidentiel;TH;Thermique;Émetteur électrique à régulation électronique à fonctions avancées;A35-2;01/10/2020;;1;1;2
+BAR-TH-159v26-1;BAR-TH-159;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur hybride individuelle;A26-1;09/08/2017;31/03/2022;1;1;1
+BAR-TH-159v41-2;BAR-TH-159;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur hybride individuelle;A41-2;01/04/2022;31/10/2022;1;1;2
+BAR-TH-159v44-3;BAR-TH-159;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur hybride individuelle;A44-3;01/11/2022;31/03/2023;1;1;3
+BAR-TH-159v50-4;BAR-TH-159;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur hybride individuelle;A50-4;01/04/2023;;1;1;4
+BAR-TH-160v27-1;BAR-TH-160;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A27-1;01/04/2018;30/04/2022;1;0;1
+BAR-TH-160v39-2;BAR-TH-160;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A39-2;01/05/2022;31/03/2023;1;0;2
+BAR-TH-160v50-3;BAR-TH-160;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A50-3;01/04/2023;30/09/2023;1;0;3
+BAR-TH-160v54-4;BAR-TH-160;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A54-4;01/10/2023;31/03/2028;1;0;4
+BAR-TH-161v28-1;BAR-TH-161;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation de points singuliers d'un réseau;A28-1;19/12/2018;30/09/2023;1;1;1
+BAR-TH-161v54-2;BAR-TH-161;BAR;Bâtiment Résidentiel;TH;Thermique;Isolation de points singuliers d'un réseau;A54-2;01/10/2023;;1;1;2
+BAR-TH-162v28-1;BAR-TH-162;BAR;Bâtiment Résidentiel;TH;Thermique;Système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d'eau (France métropolitaine);A28-1;19/12/2018;;1;0;1
+BAR-TH-163v30-1;BAR-TH-163;BAR;Bâtiment Résidentiel;TH;Thermique;Conduit d'évacuation des produits de combustion;A30-1;10/06/2019;31/10/2021;1;1;1
+BAR-TH-163v38-2;BAR-TH-163;BAR;Bâtiment Résidentiel;TH;Thermique;Conduit d'évacuation des produits de combustion;A38-2;01/11/2021;;1;1;2
+BAR-TH-164v31-1;BAR-TH-164;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'une maison individuelle (France métropolitaine);A31-1;01/09/2019;11/10/2020;1;0;1
+BAR-TH-164v36-2;BAR-TH-164;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'une maison individuelle (France métropolitaine);A36-2;12/10/2020;31/07/2023;1;0;2
+BAR-TH-164v52-3;BAR-TH-164;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'une maison individuelle (France métropolitaine);A52-3;01/07/2023;;1;0;3
+BAR-TH-165v34-1;BAR-TH-165;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière biomasse collective;A34-1;20/05/2020;;1;1;1
+BAR-TH-166v38-1;BAR-TH-166;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur collective de type air/eau ou eau/eau;A38-1;31/07/2021;;1;1;1
 BAR-TH-167v38-1;BAR-TH-167;BAR;Bâtiment Résidentiel;TH;Thermique;"Chauffe-bain individuel à haut rendement ou à condensation
-(France métropolitaine)";A38-1;2021-07-31;;1;0;1
-BAR-TH-168v40-1;BAR-TH-168;BAR;Bâtiment Résidentiel;TH;Thermique;Dispositif solaire thermique (France métropolitaine);A40-1;2021-12-29;;1;0;1
-BAR-TH-169v46-1;BAR-TH-169;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur collective de type air/eau ou eau/eau pour l'eau chaude sanitaire;A46-1;2022-08-05;;1;1;1
-BAR-TH-170v54-1;BAR-TH-170;BAR;Bâtiment Résidentiel;TH;Thermique;Récupération de chaleur fatale issue de serveurs informatiques pour l'eau chaude sanitaire collective;A54-1;2023-09-30;2028-06-30;1;1;1
-BAT-EN-101v14-1;BAT-EN-101;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation de combles ou de toitures;A14-1;2015-01-01;2018-03-31;1;1;1
-BAT-EN-101v27-2;BAT-EN-101;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation de combles ou de toitures;A27-2;2018-04-01;2020-08-31;1;1;2
-BAT-EN-101v33-3;BAT-EN-101;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation de combles ou de toitures;A33-3;2020-09-01;;1;1;3
-BAT-EN-102v14-1;BAT-EN-102;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation des murs;A14-1;2015-01-01;2018-03-31;1;1;1
-BAT-EN-102v27-2;BAT-EN-102;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation des murs;A27-2;2018-04-01;;1;1;2
-BAT-EN-103v14-1;BAT-EN-103;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation d'un plancher;A14-1;2015-01-01;2018-03-31;1;1;1
-BAT-EN-103v27-2;BAT-EN-103;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation d'un plancher;A27-2;2018-04-01;2020-08-31;1;1;2
-BAT-EN-103v33-3;BAT-EN-103;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation d'un plancher;A33-3;2020-09-01;;1;1;3
-BAT-EN-104v14-1;BAT-EN-104;BAT;Bâtiment Tertiaire;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage isolant;A14-1;2015-01-01;2018-03-31;1;1;1
-BAT-EN-104v27-2;BAT-EN-104;BAT;Bâtiment Tertiaire;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage isolant;A27-2;2018-04-01;2023-12-31;1;1;2
-BAT-EN-104v54-3;BAT-EN-104;BAT;Bâtiment Tertiaire;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage isolant;A54-3;2024-01-01;2028-06-30;1;1;3
-BAT-EN-106v19-1;BAT-EN-106;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A19-1;2016-01-04;2020-08-31;0;0;1
-BAT-EN-106v33-2;BAT-EN-106;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A33-2;2020-09-01;;0;0;2
-BAT-EN-107v14-1;BAT-EN-107;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation des toitures terrasses;A14-1;2015-01-01;2018-03-31;1;1;1
-BAT-EN-107v27-2;BAT-EN-107;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation des toitures terrasses;A27-2;2018-04-01;;1;1;2
-BAT-EN-108v19-1;BAT-EN-108;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation des murs (France d'outre-mer);A19-1;2016-01-04;;0;0;1
-BAT-EN-109v24-1;BAT-EN-109;BAT;Bâtiment Tertiaire;EN;Enveloppe;Réduction des apports solaires par la toiture (France d'outre mer);A24-1;2016-12-23;;0;0;1
-BAT-EN-110v25-1;BAT-EN-110;BAT;Bâtiment Tertiaire;EN;Enveloppe;Protections des baies contre le rayonnement solaire (France d'outre-mer);A25-1;2015-01-01;;0;0;1
-BAT-EN-111v38-1;BAT-EN-111;BAT;Bâtiment Tertiaire;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage  pariétodynamique  (France métropolitaine);A38-1;2021-07-31;;1;1;1
-BAT-EN-112v38-1;BAT-EN-112;BAT;Bâtiment Tertiaire;EN;Enveloppe;Revêtements réflectifs en toiture;A38-1;2021-07-31;;1;1;1
-BAT-EN-113v54-1;BAT-EN-113;BAT;Bâtiment Tertiaire;EN;Enveloppe;Façade rideau ou semi-rideau avec vitrage isolant;A54-1;2023-09-30;;1;1;1
-BAT-EQ-111v16-1;BAT-EQ-111;BAT;Bâtiment Tertiaire;EQ;Equipement;Luminaires à modules LED pour surfaces commerciales;A16-1;2015-01-01;2019-03-31;1;1;1
-BAT-EQ-114v24-1;BAT-EQ-114;BAT;Bâtiment Tertiaire;EQ;Equipement;Éclairage LED pour meubles frigorifiques verticaux;A24-1;2016-12-23;2019-03-31;1;1;1
-BAT-EQ-116v14-1;BAT-EQ-116;BAT;Bâtiment Tertiaire;EQ;Equipement;Lampe à LED de classe A+ (France d'outre- mer);A14-1;2015-01-01;2018-03-31;0;1;1
-BAT-EQ-117v24-1;BAT-EQ-117;BAT;Bâtiment Tertiaire;EQ;Equipement;Installation frigorifique utilisant du CO2 subcritique ou transcritique;A24-1;2016-12-23;2022-03-31;1;1;1
-BAT-EQ-117v40-2;BAT-EQ-117;BAT;Bâtiment Tertiaire;EQ;Equipement;Installation frigorifique utilisant du CO2 subcritique ou transcritique;A40-2;2022-04-01;;1;1;2
-BAT-EQ-123v22-1;BAT-EQ-123;BAT;Bâtiment Tertiaire;EQ;Equipement;Moto-variateur synchrone à aimants permanents ou à reluctance;A22-1;2016-06-01;2017-03-31;1;1;1
-BAT-EQ-123v25-2;BAT-EQ-123;BAT;Bâtiment Tertiaire;EQ;Equipement;Moto-variateur synchrone à aimants permanents ou à reluctance;A25-2;2017-04-01;;1;1;2
-BAT-EQ-124v15-1;BAT-EQ-124;BAT;Bâtiment Tertiaire;EQ;Equipement;Fermeture des meubles frigorifiques de vente à température positive;A15-1;2015-01-01;;1;1;1
-BAT-EQ-125v22-1;BAT-EQ-125;BAT;Bâtiment Tertiaire;EQ;Equipement;Fermeture des meubles frigorifiques de vente à température négative;A22-1;2016-06-01;;1;1;1
-BAT-EQ-126v16-1;BAT-EQ-126;BAT;Bâtiment Tertiaire;EQ;Equipement;Lampe ou luminaire à modules LED pour l'éclairage d'accentuation;A16-1;2015-01-01;2018-03-31;1;1;1
-BAT-EQ-127v14-1;BAT-EQ-127;BAT;Bâtiment Tertiaire;EQ;Equipement;Luminaire d'éclairage général à modules LED;A14-1;2015-01-01;2019-03-31;1;1;1
-BAT-EQ-127v28-2;BAT-EQ-127;BAT;Bâtiment Tertiaire;EQ;Equipement;Luminaire d'éclairage général à modules LED;A28-2;2019-04-01;2020-09-30;1;1;2
-BAT-EQ-127v35-3;BAT-EQ-127;BAT;Bâtiment Tertiaire;EQ;Equipement;Luminaire d'éclairage général à modules LED;A35-3;2020-10-01;2022-03-31;1;1;3
-BAT-EQ-127v40-4;BAT-EQ-127;BAT;Bâtiment Tertiaire;EQ;Equipement;Luminaire d'éclairage général à modules LED;A40-4;2022-04-01;;1;1;4
-BAT-EQ-129v26-1;BAT-EQ-129;BAT;Bâtiment Tertiaire;EQ;Equipement;Lanterneaux d'éclairage zénithal (France Métropolitaine);A26-1;2015-01-01;;1;1;1
-BAT-EQ-130v22-1;BAT-EQ-130;BAT;Bâtiment Tertiaire;EQ;Equipement;Système de condensation frigorifique à haute efficacité;A22-1;2016-06-01;;1;1;1
-BAT-EQ-131v15-1;BAT-EQ-131;BAT;Bâtiment Tertiaire;EQ;Equipement;Conduits de lumière naturelle;A15-1;2015-01-01;;1;1;1
-BAT-EQ-132v16-1;BAT-EQ-132;BAT;Bâtiment Tertiaire;EQ;Equipement;Tubes à LED à éclairage hémisphérique;A16-1;2015-01-01;2015-12-31;1;1;1
-BAT-EQ-132v19-2;BAT-EQ-132;BAT;Bâtiment Tertiaire;EQ;Equipement;Tubes à LED à éclairage hémisphérique;A19-2;2016-01-01;2019-03-31;1;1;2
-BAT-EQ-133v17-1;BAT-EQ-133;BAT;Bâtiment Tertiaire;EQ;Equipement;Systèmes  hydro-économes  (France métropolitaine);A17-1;2015-01-01;;1;1;1
-BAT-EQ-134v40-1;BAT-EQ-134;BAT;Bâtiment Tertiaire;EQ;Equipement;Meuble frigorifique de vente performant avec groupe de production de froid intégré;A40-1;2021-12-29;;1;1;1
-BAT-SE-103v19-1;BAT-SE-103;BAT;Bâtiment Tertiaire;SE;Service;Réglage des organes d'équilibrage d'une installation de chauffage à eau chaude;A19-1;2016-01-04;;1;1;1
-BAT-SE-104v31-1;BAT-SE-104;BAT;Bâtiment Tertiaire;SE;Service;Contrat de performance énergétique Services (CPE Services) Chauffage;A31-1;2019-09-01;;1;1;1
-BAT-TH-102v14-1;BAT-TH-102;BAT;Bâtiment Tertiaire;TH;Thermique;Chaudière collective haute performance énergétique;A14-1;2015-01-01;2018-12-31;1;1;1
-BAT-TH-102v28-2;BAT-TH-102;BAT;Bâtiment Tertiaire;TH;Thermique;Chaudière collective haute performance énergétique;A28-2;2019-01-01;;1;1;2
-BAT-TH-103v17-1;BAT-TH-103;BAT;Bâtiment Tertiaire;TH;Thermique;Plancher chauffant hydraulique à basse température;A17-1;2015-01-01;2019-09-30;1;1;1
-BAT-TH-103v31-2;BAT-TH-103;BAT;Bâtiment Tertiaire;TH;Thermique;Plancher chauffant hydraulique à basse température;A31-2;2019-10-01;;1;1;2
-BAT-TH-104v14-1;BAT-TH-104;BAT;Bâtiment Tertiaire;TH;Thermique;Robinet thermostatique;A14-1;2015-01-01;;1;1;1
-BAT-TH-105v16-1;BAT-TH-105;BAT;Bâtiment Tertiaire;TH;Thermique;Radiateur basse température pour un chauffage central;A16-1;2015-01-01;;1;1;1
-BAT-TH-106v16-1;BAT-TH-106;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage;A16-1;2015-01-01;2018-03-31;1;1;1
-BAT-TH-106v20-2;BAT-TH-106;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage;A20-2;2016-03-13;;1;1;2
-BAT-TH-108v22-1;BAT-TH-108;BAT;Bâtiment Tertiaire;TH;Thermique;Système de régulation par programmation d'intermittence;A22-1;2016-06-01;;1;1;1
-BAT-TH-109v22-1;BAT-TH-109;BAT;Bâtiment Tertiaire;TH;Thermique;Optimiseur de relance en chauffage collectif comprenant une fonction auto-adaptative;A22-1;2016-06-01;2019-09-30;1;1;1
-BAT-TH-109v31-2;BAT-TH-109;BAT;Bâtiment Tertiaire;TH;Thermique;Optimiseur de relance en chauffage collectif comprenant une fonction auto-adaptative;A31-2;2019-10-01;2023-12-31;1;1;2
-BAT-TH-109v54-3;BAT-TH-109;BAT;Bâtiment Tertiaire;TH;Thermique;Optimiseur de relance en chauffage collectif comprenant une fonction auto-adaptative;A54-3;2024-01-01;2028-06-30;1;1;3
-BAT-TH-110v15-1;BAT-TH-110;BAT;Bâtiment Tertiaire;TH;Thermique;Récupérateur de chaleur à condensation;A15-1;2015-01-01;;1;1;1
-BAT-TH-111v17-1;BAT-TH-111;BAT;Bâtiment Tertiaire;TH;Thermique;Chauffe-eau solaire collectif (France métropolitaine);A17-1;2015-01-01;;1;1;1
-BAT-TH-112v14-1;BAT-TH-112;BAT;Bâtiment Tertiaire;TH;Thermique;Système de variation électronique de vitesse sur un moteur asynchrone;A14-1;2015-01-01;2016-05-31;1;1;1
-BAT-TH-112v22-2;BAT-TH-112;BAT;Bâtiment Tertiaire;TH;Thermique;Système de variation électronique de vitesse sur un moteur asynchrone;A22-2;2016-06-01;;1;1;2
-BAT-TH-113v14-1;BAT-TH-113;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A14-1;2015-01-01;2014-12-31;1;1;1
-BAT-TH-113v15-2;BAT-TH-113;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A15-2;2015-01-01;2018-12-31;1;1;2
-BAT-TH-113v28-3;BAT-TH-113;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A28-3;2019-01-01;2023-12-31;1;1;3
-BAT-TH-113v54-4;BAT-TH-113;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A54-4;2024-01-01;;1;1;4
-BAT-TH-115v14-1;BAT-TH-115;BAT;Bâtiment Tertiaire;TH;Thermique;Climatiseur performant (France d'outre mer);A14-1;2015-01-01;2014-12-31;0;0;1
-BAT-TH-115v15-2;BAT-TH-115;BAT;Bâtiment Tertiaire;TH;Thermique;Climatiseur performant (France d'outre mer);A15-2;2015-01-01;;0;0;2
-BAT-TH-116v15-1;BAT-TH-116;BAT;Bâtiment Tertiaire;TH;Thermique;Système de gestion technique du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement/climatisation, l'éclairage et les auxiliaires;A15-1;2015-01-01;2018-12-31;1;1;1
-BAT-TH-116v28-2;BAT-TH-116;BAT;Bâtiment Tertiaire;TH;Thermique;Système de gestion technique du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement/climatisation, l'éclairage et les auxiliaires;A28-2;2019-01-01;2021-10-31;1;1;2
-BAT-TH-116v38-3;BAT-TH-116;BAT;Bâtiment Tertiaire;TH;Thermique;Système de gestion technique du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement/climatisation, l'éclairage et les auxiliaires;A38-3;2021-11-01;2022-09-30;1;1;3
-BAT-TH-116v46-4;BAT-TH-116;BAT;Bâtiment Tertiaire;TH;Thermique;Système de gestion technique du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement/climatisation, l'éclairage et les auxiliaires;A46-4;2022-10-01;;1;1;4
-BAT-TH-119v16-1;BAT-TH-119;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique d'eau chaude sanitaire;A16-1;2015-01-01;2018-03-31;1;1;1
-BAT-TH-119v20-2;BAT-TH-119;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique d'eau chaude sanitaire;A20-2;2016-03-13;;1;1;2
-BAT-TH-121v14-1;BAT-TH-121;BAT;Bâtiment Tertiaire;TH;Thermique;Chauffe-eau solaire (France d'outre mer);A14-1;2015-01-01;2014-12-31;0;0;1
-BAT-TH-121v15-2;BAT-TH-121;BAT;Bâtiment Tertiaire;TH;Thermique;Chauffe-eau solaire (France d'outre mer);A15-2;2015-01-01;2020-09-30;0;0;2
-BAT-TH-121v35-3;BAT-TH-121;BAT;Bâtiment Tertiaire;TH;Thermique;Chauffe-eau solaire (France d'outre mer);A35-3;2020-10-01;;0;0;3
-BAT-TH-122v22-1;BAT-TH-122;BAT;Bâtiment Tertiaire;TH;Thermique;Programmateur d'intermittence pour la climatisation (France d'outre-mer);A22-1;2016-06-01;;0;0;1
-BAT-TH-125v17-1;BAT-TH-125;BAT;Bâtiment Tertiaire;TH;Thermique;Ventilation mécanique simple flux à débit d'air constant ou modulé;A17-1;2015-01-01;;1;1;1
-BAT-TH-126v17-1;BAT-TH-126;BAT;Bâtiment Tertiaire;TH;Thermique;Ventilation mécanique double flux avec échangeur à débit d'air constant ou modulé;A17-1;2015-01-01;;1;1;1
-BAT-TH-127v17-1;BAT-TH-127;BAT;Bâtiment Tertiaire;TH;Thermique;Raccordement d'un bâtiment tertiaire à un réseau de chaleur;A17-1;2015-01-01;2018-12-31;1;1;1
-BAT-TH-127v28-2;BAT-TH-127;BAT;Bâtiment Tertiaire;TH;Thermique;Raccordement d'un bâtiment tertiaire à un réseau de chaleur;A28-2;2019-01-01;2020-09-30;1;1;2
-BAT-TH-127v35-3;BAT-TH-127;BAT;Bâtiment Tertiaire;TH;Thermique;Raccordement d'un bâtiment tertiaire à un réseau de chaleur;A35-3;2020-10-01;2022-08-31;1;1;3
-BAT-TH-127v45-4;BAT-TH-127;BAT;Bâtiment Tertiaire;TH;Thermique;Raccordement d'un bâtiment tertiaire à un réseau de chaleur;A45-4;2022-09-01;;1;1;4
-BAT-TH-134v22-1;BAT-TH-134;BAT;Bâtiment Tertiaire;TH;Thermique;Système de régulation sur un groupe de production de froid permettant d'avoir une haute pression flottante (France métropolitaine);A22-1;2016-06-01;;1;1;1
-BAT-TH-135v26-1;BAT-TH-135;BAT;Bâtiment Tertiaire;TH;Thermique;Système de régulation sur un groupe de production de froid permettant d'avoir une haute pression flottante (France d'outre-mer);A26-1;2015-01-01;;0;0;1
-BAT-TH-139v16-1;BAT-TH-139;BAT;Bâtiment Tertiaire;TH;Thermique;Système de récupération de chaleur sur un groupe de production de froid;A16-1;2015-01-01;2018-12-31;1;1;1
-BAT-TH-139v28-2;BAT-TH-139;BAT;Bâtiment Tertiaire;TH;Thermique;Système de récupération de chaleur sur un groupe de production de froid;A28-2;2019-01-01;2020-09-30;1;1;2
-BAT-TH-139v35-3;BAT-TH-139;BAT;Bâtiment Tertiaire;TH;Thermique;Système de récupération de chaleur sur un groupe de production de froid;A35-3;2020-10-01;;1;1;3
-BAT-TH-140v14-1;BAT-TH-140;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur à absorption de type air/eau ou eau/eau;A14-1;2015-01-01;2018-12-31;1;1;1
-BAT-TH-140v28-2;BAT-TH-140;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur à absorption de type air/eau ou eau/eau;A28-2;2019-01-01;;1;1;2
-BAT-TH-141v15-1;BAT-TH-141;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur à moteur gaz de type air/eau;A15-1;2015-01-01;2018-12-31;1;1;1
-BAT-TH-141v28-2;BAT-TH-141;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur à moteur gaz de type air/eau;A28-2;2019-01-01;;1;1;2
-BAT-TH-142v19-1;BAT-TH-142;BAT;Bâtiment Tertiaire;TH;Thermique;Système de déstratification d'air;A19-1;2016-01-04;2021-10-31;1;1;1
-BAT-TH-142v38-2;BAT-TH-142;BAT;Bâtiment Tertiaire;TH;Thermique;Système de déstratification d'air;A38-2;2021-11-01;2023-12-31;1;1;2
-BAT-TH-142v54-3;BAT-TH-142;BAT;Bâtiment Tertiaire;TH;Thermique;Système de déstratification d'air;A54-3;2024-01-01;2028-06-30;1;1;3
-BAT-TH-143v16-1;BAT-TH-143;BAT;Bâtiment Tertiaire;TH;Thermique;Ventilo-convecteurs haute performance;A16-1;2015-01-01;;1;1;1
-BAT-TH-145v23-1;BAT-TH-145;BAT;Bâtiment Tertiaire;TH;Thermique;Système de régulation sur un groupe de production de froid permettant d'avoir une basse pression flottante (France métropolitaine);A23-1;2015-01-01;;1;1;1
-BAT-TH-146v27-1;BAT-TH-146;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A27-1;2018-04-01;2019-09-30;1;1;1
-BAT-TH-146v31-2;BAT-TH-146;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A31-2;2019-10-01;2023-03-31;1;1;2
-BAT-TH-146v50-3;BAT-TH-146;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A50-3;2023-04-01;2023-09-30;1;1;3
-BAT-TH-146v54-4;BAT-TH-146;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A54-4;2023-10-01;2028-03-31;1;1;4
-BAT-TH-153v28-1;BAT-TH-153;BAT;Bâtiment Tertiaire;TH;Thermique;Système de confinement des allées froides et allées chaudes dans un Data Center;A28-1;2018-12-19;;1;1;1
+(France métropolitaine)";A38-1;31/07/2021;;1;0;1
+BAR-TH-168v40-1;BAR-TH-168;BAR;Bâtiment Résidentiel;TH;Thermique;Dispositif solaire thermique (France métropolitaine);A40-1;29/12/2021;;1;0;1
+BAR-TH-169v46-1;BAR-TH-169;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur collective de type air/eau ou eau/eau pour l'eau chaude sanitaire;A46-1;05/08/2022;;1;1;1
+BAR-TH-170v54-1;BAR-TH-170;BAR;Bâtiment Résidentiel;TH;Thermique;Récupération de chaleur fatale issue de serveurs informatiques pour l'eau chaude sanitaire collective;A54-1;30/09/2023;30/06/2028;1;1;1
+BAR-TH-171v55-1;BAR-TH-171;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type air/eau;A55-1;01/01/2024;30/06/2028;1;1;1
+BAR-TH-172v55-1;BAR-TH-172;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur de type eau/eau ou sol/eau;A55-1;01/01/2024;30/06/2028;1;1;1
+BAT-EN-101v14-1;BAT-EN-101;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation de combles ou de toitures;A14-1;01/01/2015;31/03/2018;1;1;1
+BAT-EN-101v27-2;BAT-EN-101;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation de combles ou de toitures;A27-2;01/04/2018;31/08/2020;1;1;2
+BAT-EN-101v33-3;BAT-EN-101;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation de combles ou de toitures;A33-3;01/09/2020;;1;1;3
+BAT-EN-102v14-1;BAT-EN-102;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation des murs;A14-1;01/01/2015;31/03/2018;1;1;1
+BAT-EN-102v27-2;BAT-EN-102;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation des murs;A27-2;01/04/2018;;1;1;2
+BAT-EN-103v14-1;BAT-EN-103;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation d'un plancher;A14-1;01/01/2015;31/03/2018;1;1;1
+BAT-EN-103v27-2;BAT-EN-103;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation d'un plancher;A27-2;01/04/2018;31/08/2020;1;1;2
+BAT-EN-103v33-3;BAT-EN-103;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation d'un plancher;A33-3;01/09/2020;;1;1;3
+BAT-EN-104v14-1;BAT-EN-104;BAT;Bâtiment Tertiaire;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage isolant;A14-1;01/01/2015;31/03/2018;1;1;1
+BAT-EN-104v27-2;BAT-EN-104;BAT;Bâtiment Tertiaire;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage isolant;A27-2;01/04/2018;31/12/2023;1;1;2
+BAT-EN-104v54-3;BAT-EN-104;BAT;Bâtiment Tertiaire;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage isolant;A54-3;01/01/2024;30/06/2028;1;1;3
+BAT-EN-106v19-1;BAT-EN-106;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A19-1;04/01/2016;31/08/2020;0;0;1
+BAT-EN-106v33-2;BAT-EN-106;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A33-2;01/09/2020;;0;0;2
+BAT-EN-107v14-1;BAT-EN-107;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation des toitures terrasses;A14-1;01/01/2015;31/03/2018;1;1;1
+BAT-EN-107v27-2;BAT-EN-107;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation des toitures terrasses;A27-2;01/04/2018;;1;1;2
+BAT-EN-108v19-1;BAT-EN-108;BAT;Bâtiment Tertiaire;EN;Enveloppe;Isolation des murs (France d'outre-mer);A19-1;04/01/2016;;0;0;1
+BAT-EN-109v24-1;BAT-EN-109;BAT;Bâtiment Tertiaire;EN;Enveloppe;Réduction des apports solaires par la toiture (France d'outre mer);A24-1;23/12/2016;;0;0;1
+BAT-EN-110v25-1;BAT-EN-110;BAT;Bâtiment Tertiaire;EN;Enveloppe;Protections des baies contre le rayonnement solaire (France d'outre-mer);A25-1;01/01/2015;;0;0;1
+BAT-EN-111v38-1;BAT-EN-111;BAT;Bâtiment Tertiaire;EN;Enveloppe;Fenêtre ou porte-fenêtre complète avec vitrage  pariétodynamique  (France métropolitaine);A38-1;31/07/2021;;1;1;1
+BAT-EN-112v38-1;BAT-EN-112;BAT;Bâtiment Tertiaire;EN;Enveloppe;Revêtements réflectifs en toiture;A38-1;31/07/2021;;1;1;1
+BAT-EN-113v54-1;BAT-EN-113;BAT;Bâtiment Tertiaire;EN;Enveloppe;Façade rideau ou semi-rideau avec vitrage isolant;A54-1;30/09/2023;;1;1;1
+BAT-EQ-111v16-1;BAT-EQ-111;BAT;Bâtiment Tertiaire;EQ;Equipement;Luminaires à modules LED pour surfaces commerciales;A16-1;01/01/2015;31/03/2019;1;1;1
+BAT-EQ-114v24-1;BAT-EQ-114;BAT;Bâtiment Tertiaire;EQ;Equipement;Éclairage LED pour meubles frigorifiques verticaux;A24-1;23/12/2016;31/03/2019;1;1;1
+BAT-EQ-116v14-1;BAT-EQ-116;BAT;Bâtiment Tertiaire;EQ;Equipement;Lampe à LED de classe A+ (France d'outre- mer);A14-1;01/01/2015;31/03/2018;0;1;1
+BAT-EQ-117v24-1;BAT-EQ-117;BAT;Bâtiment Tertiaire;EQ;Equipement;Installation frigorifique utilisant du CO2 subcritique ou transcritique;A24-1;23/12/2016;31/03/2022;1;1;1
+BAT-EQ-117v40-2;BAT-EQ-117;BAT;Bâtiment Tertiaire;EQ;Equipement;Installation frigorifique utilisant du CO2 subcritique ou transcritique;A40-2;01/04/2022;;1;1;2
+BAT-EQ-123v22-1;BAT-EQ-123;BAT;Bâtiment Tertiaire;EQ;Equipement;Moto-variateur synchrone à aimants permanents ou à reluctance;A22-1;01/06/2016;31/03/2017;1;1;1
+BAT-EQ-123v25-2;BAT-EQ-123;BAT;Bâtiment Tertiaire;EQ;Equipement;Moto-variateur synchrone à aimants permanents ou à reluctance;A25-2;01/04/2017;;1;1;2
+BAT-EQ-124v15-1;BAT-EQ-124;BAT;Bâtiment Tertiaire;EQ;Equipement;Fermeture des meubles frigorifiques de vente à température positive;A15-1;01/01/2015;;1;1;1
+BAT-EQ-125v22-1;BAT-EQ-125;BAT;Bâtiment Tertiaire;EQ;Equipement;Fermeture des meubles frigorifiques de vente à température négative;A22-1;01/06/2016;;1;1;1
+BAT-EQ-126v16-1;BAT-EQ-126;BAT;Bâtiment Tertiaire;EQ;Equipement;Lampe ou luminaire à modules LED pour l'éclairage d'accentuation;A16-1;01/01/2015;31/03/2018;1;1;1
+BAT-EQ-127v14-1;BAT-EQ-127;BAT;Bâtiment Tertiaire;EQ;Equipement;Luminaire d'éclairage général à modules LED;A14-1;01/01/2015;31/03/2019;1;1;1
+BAT-EQ-127v28-2;BAT-EQ-127;BAT;Bâtiment Tertiaire;EQ;Equipement;Luminaire d'éclairage général à modules LED;A28-2;01/04/2019;30/09/2020;1;1;2
+BAT-EQ-127v35-3;BAT-EQ-127;BAT;Bâtiment Tertiaire;EQ;Equipement;Luminaire d'éclairage général à modules LED;A35-3;01/10/2020;31/03/2022;1;1;3
+BAT-EQ-127v40-4;BAT-EQ-127;BAT;Bâtiment Tertiaire;EQ;Equipement;Luminaire d'éclairage général à modules LED;A40-4;01/04/2022;;1;1;4
+BAT-EQ-129v26-1;BAT-EQ-129;BAT;Bâtiment Tertiaire;EQ;Equipement;Lanterneaux d'éclairage zénithal (France Métropolitaine);A26-1;01/01/2015;;1;1;1
+BAT-EQ-130v22-1;BAT-EQ-130;BAT;Bâtiment Tertiaire;EQ;Equipement;Système de condensation frigorifique à haute efficacité;A22-1;01/06/2016;;1;1;1
+BAT-EQ-131v15-1;BAT-EQ-131;BAT;Bâtiment Tertiaire;EQ;Equipement;Conduits de lumière naturelle;A15-1;01/01/2015;;1;1;1
+BAT-EQ-132v16-1;BAT-EQ-132;BAT;Bâtiment Tertiaire;EQ;Equipement;Tubes à LED à éclairage hémisphérique;A16-1;01/01/2015;31/12/2015;1;1;1
+BAT-EQ-132v19-2;BAT-EQ-132;BAT;Bâtiment Tertiaire;EQ;Equipement;Tubes à LED à éclairage hémisphérique;A19-2;01/01/2016;31/03/2019;1;1;2
+BAT-EQ-133v17-1;BAT-EQ-133;BAT;Bâtiment Tertiaire;EQ;Equipement;Systèmes  hydro-économes  (France métropolitaine);A17-1;01/01/2015;;1;1;1
+BAT-EQ-134v40-1;BAT-EQ-134;BAT;Bâtiment Tertiaire;EQ;Equipement;Meuble frigorifique de vente performant avec groupe de production de froid intégré;A40-1;29/12/2021;;1;1;1
+BAT-SE-103v19-1;BAT-SE-103;BAT;Bâtiment Tertiaire;SE;Service;Réglage des organes d'équilibrage d'une installation de chauffage à eau chaude;A19-1;04/01/2016;;1;1;1
+BAT-SE-104v31-1;BAT-SE-104;BAT;Bâtiment Tertiaire;SE;Service;Contrat de performance énergétique Services (CPE Services) Chauffage;A31-1;01/09/2019;;1;1;1
+BAT-TH-102v14-1;BAT-TH-102;BAT;Bâtiment Tertiaire;TH;Thermique;Chaudière collective haute performance énergétique;A14-1;01/01/2015;31/12/2018;1;1;1
+BAT-TH-102v28-2;BAT-TH-102;BAT;Bâtiment Tertiaire;TH;Thermique;Chaudière collective haute performance énergétique;A28-2;01/01/2019;;1;1;2
+BAT-TH-103v17-1;BAT-TH-103;BAT;Bâtiment Tertiaire;TH;Thermique;Plancher chauffant hydraulique à basse température;A17-1;01/01/2015;30/09/2019;1;1;1
+BAT-TH-103v31-2;BAT-TH-103;BAT;Bâtiment Tertiaire;TH;Thermique;Plancher chauffant hydraulique à basse température;A31-2;01/10/2019;;1;1;2
+BAT-TH-104v14-1;BAT-TH-104;BAT;Bâtiment Tertiaire;TH;Thermique;Robinet thermostatique;A14-1;01/01/2015;;1;1;1
+BAT-TH-105v16-1;BAT-TH-105;BAT;Bâtiment Tertiaire;TH;Thermique;Radiateur basse température pour un chauffage central;A16-1;01/01/2015;;1;1;1
+BAT-TH-106v16-1;BAT-TH-106;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage;A16-1;01/01/2015;31/03/2018;1;1;1
+BAT-TH-106v20-2;BAT-TH-106;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage;A20-2;13/03/2016;;1;1;2
+BAT-TH-108v22-1;BAT-TH-108;BAT;Bâtiment Tertiaire;TH;Thermique;Système de régulation par programmation d'intermittence;A22-1;01/06/2016;;1;1;1
+BAT-TH-109v22-1;BAT-TH-109;BAT;Bâtiment Tertiaire;TH;Thermique;Optimiseur de relance en chauffage collectif comprenant une fonction auto-adaptative;A22-1;01/06/2016;30/09/2019;1;1;1
+BAT-TH-109v31-2;BAT-TH-109;BAT;Bâtiment Tertiaire;TH;Thermique;Optimiseur de relance en chauffage collectif comprenant une fonction auto-adaptative;A31-2;01/10/2019;31/12/2023;1;1;2
+BAT-TH-109v54-3;BAT-TH-109;BAT;Bâtiment Tertiaire;TH;Thermique;Optimiseur de relance en chauffage collectif comprenant une fonction auto-adaptative;A54-3;01/01/2024;30/06/2028;1;1;3
+BAT-TH-110v15-1;BAT-TH-110;BAT;Bâtiment Tertiaire;TH;Thermique;Récupérateur de chaleur à condensation;A15-1;01/01/2015;;1;1;1
+BAT-TH-111v17-1;BAT-TH-111;BAT;Bâtiment Tertiaire;TH;Thermique;Chauffe-eau solaire collectif (France métropolitaine);A17-1;01/01/2015;;1;1;1
+BAT-TH-112v14-1;BAT-TH-112;BAT;Bâtiment Tertiaire;TH;Thermique;Système de variation électronique de vitesse sur un moteur asynchrone;A14-1;01/01/2015;31/05/2016;1;1;1
+BAT-TH-112v22-2;BAT-TH-112;BAT;Bâtiment Tertiaire;TH;Thermique;Système de variation électronique de vitesse sur un moteur asynchrone;A22-2;01/06/2016;;1;1;2
+BAT-TH-113v14-1;BAT-TH-113;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A14-1;01/01/2015;31/12/2014;1;1;1
+BAT-TH-113v15-2;BAT-TH-113;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A15-2;01/01/2015;31/12/2018;1;1;2
+BAT-TH-113v28-3;BAT-TH-113;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A28-3;01/01/2019;31/12/2023;1;1;3
+BAT-TH-113v54-4;BAT-TH-113;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;A54-4;01/01/2024;;1;1;4
+BAT-TH-115v14-1;BAT-TH-115;BAT;Bâtiment Tertiaire;TH;Thermique;Climatiseur performant (France d'outre mer);A14-1;01/01/2015;31/12/2014;0;0;1
+BAT-TH-115v15-2;BAT-TH-115;BAT;Bâtiment Tertiaire;TH;Thermique;Climatiseur performant (France d'outre mer);A15-2;01/01/2015;;0;0;2
+BAT-TH-116v15-1;BAT-TH-116;BAT;Bâtiment Tertiaire;TH;Thermique;Système de gestion technique du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement/climatisation, l'éclairage et les auxiliaires;A15-1;01/01/2015;31/12/2018;1;1;1
+BAT-TH-116v28-2;BAT-TH-116;BAT;Bâtiment Tertiaire;TH;Thermique;Système de gestion technique du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement/climatisation, l'éclairage et les auxiliaires;A28-2;01/01/2019;31/10/2021;1;1;2
+BAT-TH-116v38-3;BAT-TH-116;BAT;Bâtiment Tertiaire;TH;Thermique;Système de gestion technique du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement/climatisation, l'éclairage et les auxiliaires;A38-3;01/11/2021;30/09/2022;1;1;3
+BAT-TH-116v46-4;BAT-TH-116;BAT;Bâtiment Tertiaire;TH;Thermique;Système de gestion technique du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement/climatisation, l'éclairage et les auxiliaires;A46-4;01/10/2022;;1;1;4
+BAT-TH-119v16-1;BAT-TH-119;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique d'eau chaude sanitaire;A16-1;01/01/2015;31/03/2018;1;1;1
+BAT-TH-119v20-2;BAT-TH-119;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique d'eau chaude sanitaire;A20-2;13/03/2016;;1;1;2
+BAT-TH-121v14-1;BAT-TH-121;BAT;Bâtiment Tertiaire;TH;Thermique;Chauffe-eau solaire (France d'outre mer);A14-1;01/01/2015;31/12/2014;0;0;1
+BAT-TH-121v15-2;BAT-TH-121;BAT;Bâtiment Tertiaire;TH;Thermique;Chauffe-eau solaire (France d'outre mer);A15-2;01/01/2015;30/09/2020;0;0;2
+BAT-TH-121v35-3;BAT-TH-121;BAT;Bâtiment Tertiaire;TH;Thermique;Chauffe-eau solaire (France d'outre mer);A35-3;01/10/2020;;0;0;3
+BAT-TH-122v22-1;BAT-TH-122;BAT;Bâtiment Tertiaire;TH;Thermique;Programmateur d'intermittence pour la climatisation (France d'outre-mer);A22-1;01/06/2016;;0;0;1
+BAT-TH-125v17-1;BAT-TH-125;BAT;Bâtiment Tertiaire;TH;Thermique;Ventilation mécanique simple flux à débit d'air constant ou modulé;A17-1;01/01/2015;;1;1;1
+BAT-TH-126v17-1;BAT-TH-126;BAT;Bâtiment Tertiaire;TH;Thermique;Ventilation mécanique double flux avec échangeur à débit d'air constant ou modulé;A17-1;01/01/2015;;1;1;1
+BAT-TH-127v17-1;BAT-TH-127;BAT;Bâtiment Tertiaire;TH;Thermique;Raccordement d'un bâtiment tertiaire à un réseau de chaleur;A17-1;01/01/2015;31/12/2018;1;1;1
+BAT-TH-127v28-2;BAT-TH-127;BAT;Bâtiment Tertiaire;TH;Thermique;Raccordement d'un bâtiment tertiaire à un réseau de chaleur;A28-2;01/01/2019;30/09/2020;1;1;2
+BAT-TH-127v35-3;BAT-TH-127;BAT;Bâtiment Tertiaire;TH;Thermique;Raccordement d'un bâtiment tertiaire à un réseau de chaleur;A35-3;01/10/2020;31/08/2022;1;1;3
+BAT-TH-127v45-4;BAT-TH-127;BAT;Bâtiment Tertiaire;TH;Thermique;Raccordement d'un bâtiment tertiaire à un réseau de chaleur;A45-4;01/09/2022;;1;1;4
+BAT-TH-134v22-1;BAT-TH-134;BAT;Bâtiment Tertiaire;TH;Thermique;Système de régulation sur un groupe de production de froid permettant d'avoir une haute pression flottante (France métropolitaine);A22-1;01/06/2016;;1;1;1
+BAT-TH-135v26-1;BAT-TH-135;BAT;Bâtiment Tertiaire;TH;Thermique;Système de régulation sur un groupe de production de froid permettant d'avoir une haute pression flottante (France d'outre-mer);A26-1;01/01/2015;;0;0;1
+BAT-TH-139v16-1;BAT-TH-139;BAT;Bâtiment Tertiaire;TH;Thermique;Système de récupération de chaleur sur un groupe de production de froid;A16-1;01/01/2015;31/12/2018;1;1;1
+BAT-TH-139v28-2;BAT-TH-139;BAT;Bâtiment Tertiaire;TH;Thermique;Système de récupération de chaleur sur un groupe de production de froid;A28-2;01/01/2019;30/09/2020;1;1;2
+BAT-TH-139v35-3;BAT-TH-139;BAT;Bâtiment Tertiaire;TH;Thermique;Système de récupération de chaleur sur un groupe de production de froid;A35-3;01/10/2020;;1;1;3
+BAT-TH-140v14-1;BAT-TH-140;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur à absorption de type air/eau ou eau/eau;A14-1;01/01/2015;31/12/2018;1;1;1
+BAT-TH-140v28-2;BAT-TH-140;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur à absorption de type air/eau ou eau/eau;A28-2;01/01/2019;;1;1;2
+BAT-TH-141v15-1;BAT-TH-141;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur à moteur gaz de type air/eau;A15-1;01/01/2015;31/12/2018;1;1;1
+BAT-TH-141v28-2;BAT-TH-141;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur à moteur gaz de type air/eau;A28-2;01/01/2019;;1;1;2
+BAT-TH-142v19-1;BAT-TH-142;BAT;Bâtiment Tertiaire;TH;Thermique;Système de déstratification d'air;A19-1;04/01/2016;31/10/2021;1;1;1
+BAT-TH-142v38-2;BAT-TH-142;BAT;Bâtiment Tertiaire;TH;Thermique;Système de déstratification d'air;A38-2;01/11/2021;31/12/2023;1;1;2
+BAT-TH-142v54-3;BAT-TH-142;BAT;Bâtiment Tertiaire;TH;Thermique;Système de déstratification d'air;A54-3;01/01/2024;30/06/2028;1;1;3
+BAT-TH-143v16-1;BAT-TH-143;BAT;Bâtiment Tertiaire;TH;Thermique;Ventilo-convecteurs haute performance;A16-1;01/01/2015;;1;1;1
+BAT-TH-145v23-1;BAT-TH-145;BAT;Bâtiment Tertiaire;TH;Thermique;Système de régulation sur un groupe de production de froid permettant d'avoir une basse pression flottante (France métropolitaine);A23-1;01/01/2015;;1;1;1
+BAT-TH-146v27-1;BAT-TH-146;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A27-1;01/04/2018;30/09/2019;1;1;1
+BAT-TH-146v31-2;BAT-TH-146;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A31-2;01/10/2019;31/03/2023;1;1;2
+BAT-TH-146v50-3;BAT-TH-146;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A50-3;01/04/2023;30/09/2023;1;1;3
+BAT-TH-146v54-4;BAT-TH-146;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A54-4;01/10/2023;31/03/2028;1;1;4
+BAT-TH-153v28-1;BAT-TH-153;BAT;Bâtiment Tertiaire;TH;Thermique;Système de confinement des allées froides et allées chaudes dans un Data Center;A28-1;19/12/2018;;1;1;1
 BAT-TH-154v28-1;BAT-TH-154;BAT;Bâtiment Tertiaire;TH;Thermique;"Récupération instantanée de chaleur sur
-eaux grises";A28-1;2018-12-19;;1;1;1
-BAT-TH-155v28-1;BAT-TH-155;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation de points singuliers d'un réseau;A28-1;2018-12-19;2023-09-30;1;1;1
-BAT-TH-155v54-2;BAT-TH-155;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation de points singuliers d'un réseau;A54-2;2023-10-01;;1;1;2
-BAT-TH-156v31-1;BAT-TH-156;BAT;Bâtiment Tertiaire;TH;Thermique;Freecooling par eau de refroidissement en substitution d'un groupe froid pour la climatisation;A31-1;2019-09-01;;1;1;1
-BAT-TH-157v34-1;BAT-TH-157;BAT;Bâtiment Tertiaire;TH;Thermique;Chaudière biomasse collective;A34-1;2020-05-20;2023-03-31;1;1;1
-BAT-TH-157v50-2;BAT-TH-157;BAT;Bâtiment Tertiaire;TH;Thermique;Chaudière biomasse collective;A50-2;2023-04-01;;1;1;2
-BAT-TH-158v40-1;BAT-TH-158;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur réversible de type air/air;A40-1;2021-12-29;2022-01-30;1;1;1
-BAT-TH-158v42-2;BAT-TH-158;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur réversible de type air/air;A42-2;2022-01-31;;1;1;2
-BAT-TH-159v40-1;BAT-TH-159;BAT;Bâtiment Tertiaire;TH;Thermique;Raccordement d'un bâtiment tertiaire à un réseau de froid;A40-1;2021-12-29;;1;1;1
-BAT-TH-160v54-1;BAT-TH-160;BAT;Bâtiment Tertiaire;TH;Thermique;Vannes de régulation étanches à servomoteurs économes (France métropolitaine);A54-1;2023-09-30;2028-06-30;1;0;1
-IND-BA-110v14-1;IND-BA-110;IND;Industrie;BA;Bâtiment;Dé-stratificateur ou brasseur d'air;A14-1;2015-01-01;2016-03-12;1;1;1
-IND-BA-110v20-2;IND-BA-110;IND;Industrie;BA;Bâtiment;Dé-stratificateur ou brasseur d'air;A20-2;2016-03-13;;1;1;2
-IND-BA-112v14-1;IND-BA-112;IND;Industrie;BA;Bâtiment;Système de récupération de chaleur sur une tour aéroréfrigérante;A14-1;2015-01-01;2015-09-30;1;1;1
-IND-BA-112v17-2;IND-BA-112;IND;Industrie;BA;Bâtiment;Système de récupération de chaleur sur une tour aéroréfrigérante;A17-2;2015-10-01;;1;1;2
-IND-BA-113v26-1;IND-BA-113;IND;Industrie;BA;Bâtiment;Lanterneaux d'éclairage zénithal (France Métropolitaine);A26-1;2015-01-01;;1;0;1
-IND-BA-114v15-1;IND-BA-114;IND;Industrie;BA;Bâtiment;Conduits de lumière naturelle;A15-1;2015-01-01;;1;1;1
-IND-BA-115v16-1;IND-BA-115;IND;Industrie;BA;Bâtiment;Tubes à LED à éclairage hémisphérique;A16-1;2015-01-01;2015-12-31;1;1;1
-IND-BA-115v19-2;IND-BA-115;IND;Industrie;BA;Bâtiment;Tubes à LED à éclairage hémisphérique;A19-2;2016-01-01;2019-03-31;1;1;2
-IND-BA-116v27-1;IND-BA-116;IND;Industrie;BA;Bâtiment;Luminaires à modules LED;A27-1;2018-01-11;2022-03-31;1;1;1
-IND-BA-116v40-2;IND-BA-116;IND;Industrie;BA;Bâtiment;Luminaires à modules LED;A40-2;2022-04-01;;1;1;2
-IND-BA-117v27-1;IND-BA-117;IND;Industrie;BA;Bâtiment;Chauffage décentralisé performant;A27-1;2018-01-11;;1;1;1
-IND-EN-101v23-1;IND-EN-101;IND;Industrie;EN;Enveloppe;Isolation des murs (France d'outre-mer);A23-1;2015-01-01;;0;1;1
-IND-EN-102v19-1;IND-EN-102;IND;Industrie;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A19-1;2016-01-04;2020-08-31;0;1;1
-IND-EN-102v33-2;IND-EN-102;IND;Industrie;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A33-2;2020-09-01;;0;1;2
-IND-UT-102v14-1;IND-UT-102;IND;Industrie;UT;Utilités;Système de variation électronique de vitesse sur un moteur asynchrone;A14-1;2015-01-01;2015-12-31;1;1;1
-IND-UT-102v19-2;IND-UT-102;IND;Industrie;UT;Utilités;Système de variation électronique de vitesse sur un moteur asynchrone;A19-2;2016-01-01;;1;1;2
-IND-UT-103v14-1;IND-UT-103;IND;Industrie;UT;Utilités;Système de récupération de chaleur sur un compresseur d'air;A14-1;2015-01-01;2015-09-30;1;1;1
-IND-UT-103v17-2;IND-UT-103;IND;Industrie;UT;Utilités;Système de récupération de chaleur sur un compresseur d'air;A17-2;2015-10-01;;1;1;2
-IND-UT-104v14-1;IND-UT-104;IND;Industrie;UT;Utilités;Économiseur sur les effluents gazeux d'une chaudière de production de vapeur;A14-1;2015-01-01;;1;1;1
-IND-UT-105v14-1;IND-UT-105;IND;Industrie;UT;Utilités;Brûleur micromodulant sur chaudière industrielle;A14-1;2015-01-01;;1;1;1
-IND-UT-112v14-1;IND-UT-112;IND;Industrie;UT;Utilités;Moteur haut rendement de classe IE2;A14-1;2015-01-01;2022-03-31;1;1;1
-IND-UT-113v14-1;IND-UT-113;IND;Industrie;UT;Utilités;Système de condensation frigorifique à haute efficacité;A14-1;2015-01-01;;1;1;1
-IND-UT-114v14-1;IND-UT-114;IND;Industrie;UT;Utilités;Moto-variateur synchrone à aimants permanents ou à reluctance;A14-1;2015-01-01;2016-12-22;1;1;1
-IND-UT-114v24-2;IND-UT-114;IND;Industrie;UT;Utilités;Moto-variateur synchrone à aimants permanents ou à reluctance;A24-2;2016-12-23;;1;1;2
-IND-UT-115v15-1;IND-UT-115;IND;Industrie;UT;Utilités;Système de régulation sur un groupe de production de froid permettant d'avoir une basse pression flottante;A15-1;2015-01-01;;1;1;1
-IND-UT-116v14-1;IND-UT-116;IND;Industrie;UT;Utilités;Système de régulation sur un groupe de production de froid permettant d'avoir une haute pression flottante;A14-1;2015-01-01;;1;1;1
-IND-UT-117v14-1;IND-UT-117;IND;Industrie;UT;Utilités;Système de récupération de chaleur sur un groupe de production de froid;A14-1;2015-01-01;2015-09-30;1;1;1
-IND-UT-117v17-2;IND-UT-117;IND;Industrie;UT;Utilités;Système de récupération de chaleur sur un groupe de production de froid;A17-2;2015-10-01;2018-03-31;1;1;2
-IND-UT-117v27-3;IND-UT-117;IND;Industrie;UT;Utilités;Système de récupération de chaleur sur un groupe de production de froid;A27-3;2018-04-01;2020-09-30;1;1;3
-IND-UT-117v35-4;IND-UT-117;IND;Industrie;UT;Utilités;Système de récupération de chaleur sur un groupe de production de froid;A35-4;2020-10-01;;1;1;4
-IND-UT-118v14-1;IND-UT-118;IND;Industrie;UT;Utilités;Brûleur avec dispositif de récupération de chaleur sur un four industriel;A14-1;2015-01-01;;1;1;1
-IND-UT-120v14-1;IND-UT-120;IND;Industrie;UT;Utilités;Compresseur d'air basse pression à vis ou centrifuge;A14-1;2015-01-01;;1;1;1
-IND-UT-121v14-1;IND-UT-121;IND;Industrie;UT;Utilités;Matelas pour l'isolation de points singuliers;A14-1;2015-01-01;2018-12-31;1;1;1
-IND-UT-121v28-2;IND-UT-121;IND;Industrie;UT;Utilités;Matelas pour l'isolation de points singuliers;A28-2;2019-01-01;2022-03-31;1;1;2
-IND-UT-121v40-3;IND-UT-121;IND;Industrie;UT;Utilités;Matelas pour l'isolation de points singuliers;A40-3;2022-04-01;2023-09-30;1;1;3
-IND-UT-121v54-4;IND-UT-121;IND;Industrie;UT;Utilités;Matelas pour l'isolation de points singuliers;A54-4;2023-10-01;;1;1;4
-IND-UT-122v14-1;IND-UT-122;IND;Industrie;UT;Utilités;Sécheur d'air comprimé à adsorption utilisant un apport calorifique pour sa régénération;A14-1;2015-01-01;;1;1;1
-IND-UT-123v14-1;IND-UT-123;IND;Industrie;UT;Utilités;Moteur premium de classe IE3;A14-1;2015-01-01;2022-08-31;1;1;1
-IND-UT-124v14-1;IND-UT-124;IND;Industrie;UT;Utilités;Séquenceur électronique pour le pilotage d'une centrale de production d'air comprimé;A14-1;2015-01-01;;1;1;1
-IND-UT-125v14-1;IND-UT-125;IND;Industrie;UT;Utilités;Traitement d'eau performant sur chaudière de production de vapeur;A14-1;2015-01-01;;1;1;1
-IND-UT-127v14-1;IND-UT-127;IND;Industrie;UT;Utilités;Système de transmission performant;A14-1;2015-01-01;2014-12-31;1;1;1
-IND-UT-127v25-2;IND-UT-127;IND;Industrie;UT;Utilités;Système de transmission performant;A25-2;2015-01-01;;1;1;2
-IND-UT-129v14-1;IND-UT-129;IND;Industrie;UT;Utilités;Presse à injecter tout électrique ou hybride;A14-1;2015-01-01;2018-12-31;1;1;1
-IND-UT-129v28-2;IND-UT-129;IND;Industrie;UT;Utilités;Presse à injecter tout électrique ou hybride;A28-2;2019-01-01;;1;1;2
-IND-UT-130v19-1;IND-UT-130;IND;Industrie;UT;Utilités;Condenseur sur les effluents gazeux d'une chaudière de production de vapeur;A19-1;2016-01-04;;1;1;1
-IND-UT-131v24-1;IND-UT-131;IND;Industrie;UT;Utilités;Isolation thermique des parois planes ou cylindriques sur des installations industrielles (France métropolitaine);A24-1;2016-12-23;2020-03-31;1;1;1
-IND-UT-131v37-2;IND-UT-131;IND;Industrie;UT;Utilités;Isolation thermique des parois planes ou cylindriques sur des installations industrielles (France métropolitaine);A37-2;2020-04-01;;1;1;2
-IND-UT-132v26-1;IND-UT-132;IND;Industrie;UT;Utilités;Moteur asynchrone de classe IE4;A26-1;2017-08-09;;1;1;1
-IND-UT-133v28-1;IND-UT-133;IND;Industrie;UT;Utilités;Système électronique de pilotage d'un moteur électrique avec récupération d'énergie;A28-1;2018-12-19;;1;1;1
-IND-UT-134v28-1;IND-UT-134;IND;Industrie;UT;Utilités;Système de mesurage d'indicateurs de performance énergétique;A28-1;2018-12-19;2020-09-30;1;1;1
-IND-UT-134v35-2;IND-UT-134;IND;Industrie;UT;Utilités;Système de mesurage d'indicateurs de performance énergétique;A35-2;2020-10-01;;1;1;2
-IND-UT-135v31-1;IND-UT-135;IND;Industrie;UT;Utilités;Freecooling par eau de refroidissement en substitution d'un groupe froid;A31-1;2019-09-01;;1;1;1
-IND-UT-136v31-1;IND-UT-136;IND;Industrie;UT;Utilités;Systèmes moto-régulés;A31-1;2019-09-01;;1;1;1
-RES-CH-101v16-1;RES-CH-101;RES;Réseaux;CH;Chaleur et Froid;Valorisation de chaleur de récupération en réseau (France métropolitaine);A16-1;2015-01-01;;1;0;1
-RES-CH-103v16-1;RES-CH-103;RES;Réseaux;CH;Chaleur et Froid;Réhabilitation d'un poste de livraison de chaleur d'un bâtiment tertiaire;A16-1;2015-01-01;2020-09-30;1;1;1
-RES-CH-103v35-2;RES-CH-103;RES;Réseaux;CH;Chaleur et Froid;Réhabilitation d'un poste de livraison de chaleur d'un bâtiment tertiaire;A35-2;2020-10-01;2020-10-11;1;1;2
-RES-CH-103v36-3;RES-CH-103;RES;Réseaux;CH;Chaleur et Froid;Réhabilitation d'un poste de livraison de chaleur d'un bâtiment tertiaire;A36-3;2020-10-12;;1;1;3
-RES-CH-104v16-1;RES-CH-104;RES;Réseaux;CH;Chaleur et Froid;Réhabilitation d'un poste de livraison de chaleur d'un bâtiment résidentiel;A16-1;2015-01-01;2020-09-30;1;1;1
-RES-CH-104v35-2;RES-CH-104;RES;Réseaux;CH;Chaleur et Froid;Réhabilitation d'un poste de livraison de chaleur d'un bâtiment résidentiel;A35-2;2020-10-01;2020-10-11;1;1;2
-RES-CH-104v36-3;RES-CH-104;RES;Réseaux;CH;Chaleur et Froid;Réhabilitation d'un poste de livraison de chaleur d'un bâtiment résidentiel;A36-3;2020-10-12;;1;1;3
-RES-CH-105v24-1;RES-CH-105;RES;Réseaux;CH;Chaleur et Froid;Passage d'un réseau de chaleur en basse température;A24-1;2016-12-23;2020-09-30;1;1;1
-RES-CH-105v35-2;RES-CH-105;RES;Réseaux;CH;Chaleur et Froid;Passage d'un réseau de chaleur en basse température;A35-2;2020-10-01;2020-10-11;1;1;2
-RES-CH-105v36-3;RES-CH-105;RES;Réseaux;CH;Chaleur et Froid;Passage d'un réseau de chaleur en basse température;A36-3;2020-10-12;;1;1;3
-RES-CH-106v25-1;RES-CH-106;RES;Réseaux;CH;Chaleur et Froid;Mise en place d'un calorifugeage des canalisations d'un réseau de chaleur;A25-1;2015-01-01;2021-10-31;1;1;1
-RES-CH-106v38-2;RES-CH-106;RES;Réseaux;CH;Chaleur et Froid;Mise en place d'un calorifugeage des canalisations d'un réseau de chaleur;A38-2;2021-11-01;2023-03-31;1;1;2
-RES-CH-106v50-3;RES-CH-106;RES;Réseaux;CH;Chaleur et Froid;Mise en place d'un calorifugeage des canalisations d'un réseau de chaleur;A50-3;2023-04-01;;1;1;3
-RES-CH-107v24-1;RES-CH-107;RES;Réseaux;CH;Chaleur et Froid;Isolation de points singuliers sur un réseau de chaleur;A24-1;2016-12-23;2020-09-30;1;1;1
-RES-CH-107v35-2;RES-CH-107;RES;Réseaux;CH;Chaleur et Froid;Isolation de points singuliers sur un réseau de chaleur;A35-2;2020-10-01;2020-10-11;1;1;2
-RES-CH-107v36-3;RES-CH-107;RES;Réseaux;CH;Chaleur et Froid;Isolation de points singuliers sur un réseau de chaleur;A36-3;2020-10-12;;1;1;3
-RES-CH-108v32-1;RES-CH-108;RES;Réseaux;CH;Chaleur et Froid;Récupération de chaleur fatale pour valorisation sur un réseau de chaleur ou vers un tiers (France métropolitaine);A32-1;2020-04-01;2020-05-19;1;0;1
-RES-CH-108v34-2;RES-CH-108;RES;Réseaux;CH;Chaleur et Froid;Récupération de chaleur fatale pour valorisation sur un réseau de chaleur ou vers un tiers (France métropolitaine);A34-2;2020-05-20;2021-03-31;1;0;2
-RES-CH-108v37-3;RES-CH-108;RES;Réseaux;CH;Chaleur et Froid;Récupération de chaleur fatale pour valorisation sur un réseau de chaleur ou vers un tiers (France métropolitaine);A37-3;2021-04-01;;1;0;3
-RES-EC-101v14-1;RES-EC-101;RES;Réseaux;EC;Eclairage;Système de régulation de tension en éclairage extérieur;A14-1;2015-01-01;2022-03-31;1;1;1
-RES-EC-102v14-1;RES-EC-102;RES;Réseaux;EC;Eclairage;Système de maîtrise de la puissance réactive en éclairage extérieur;A14-1;2015-01-01;2022-03-31;1;1;1
-RES-EC-103v14-1;RES-EC-103;RES;Réseaux;EC;Eclairage;Système de variation de puissance en éclairage extérieur;A14-1;2015-01-01;;1;1;1
-RES-EC-104v14-1;RES-EC-104;RES;Réseaux;EC;Eclairage;Rénovation d'éclairage extérieur;A14-1;2015-01-01;;1;1;1
-RES-EC-107v14-1;RES-EC-107;RES;Réseaux;EC;Eclairage;Horloge astronomique pour l'éclairage extérieur;A14-1;2015-01-01;2022-03-31;1;1;1
-TRA-EQ-101v14-1;TRA-EQ-101;TRA;Transport;EQ;Equipement;Unité de transport intermodal pour le transport combiné rail-route;A14-1;2015-01-01;;1;1;1
-TRA-EQ-103v14-1;TRA-EQ-103;TRA;Transport;EQ;Equipement;Télématique embarquée pour le suivi de la conduite d'un véhicule;A14-1;2015-01-01;;1;1;1
-TRA-EQ-104v14-1;TRA-EQ-104;TRA;Transport;EQ;Equipement;Lubrifiant économiseur d'énergie pour véhicules légers;A14-1;2015-01-01;;1;1;1
-TRA-EQ-106v14-1;TRA-EQ-106;TRA;Transport;EQ;Equipement;Pneus de véhicules légers à basse résistance au roulement;A14-1;2015-01-01;;1;1;1
-TRA-EQ-107v17-1;TRA-EQ-107;TRA;Transport;EQ;Equipement;Unité de transport intermodal pour le transport combiné fluvial-route;A17-1;2015-01-01;;1;1;1
-TRA-EQ-108v19-1;TRA-EQ-108;TRA;Transport;EQ;Equipement;Wagon d'autoroute ferroviaire;A19-1;2015-01-01;2016-10-09;1;1;1
-TRA-EQ-108v23-2;TRA-EQ-108;TRA;Transport;EQ;Equipement;Wagon d'autoroute ferroviaire;A23-2;2016-10-10;2017-08-08;1;1;2
-TRA-EQ-108v26-3;TRA-EQ-108;TRA;Transport;EQ;Equipement;Wagon d'autoroute ferroviaire;A26-3;2017-08-09;2018-12-18;1;1;3
-TRA-EQ-108v28-4;TRA-EQ-108;TRA;Transport;EQ;Equipement;Wagon d'autoroute ferroviaire;A28-4;2018-12-19;2020-01-30;1;1;4
-TRA-EQ-108v32-5;TRA-EQ-108;TRA;Transport;EQ;Equipement;Wagon d'autoroute ferroviaire;A32-5;2020-01-31;2020-03-31;1;1;5
-TRA-EQ-108v37-6;TRA-EQ-108;TRA;Transport;EQ;Equipement;Wagon d'autoroute ferroviaire;A37-6;2020-04-01;;1;1;6
-TRA-EQ-109v17-1;TRA-EQ-109;TRA;Transport;EQ;Equipement;Barge fluviale;A17-1;2015-01-01;;1;1;1
-TRA-EQ-110v19-1;TRA-EQ-110;TRA;Transport;EQ;Equipement;Automoteur fluvial;A19-1;2015-01-01;;1;1;1
-TRA-EQ-111v24-1;TRA-EQ-111;TRA;Transport;EQ;Equipement;Groupes frigorifiques autonomes à haute efficacité énergétique pour camions, semi remorques, remorques et caisses mobiles frigorifiques;A24-1;2016-12-23;;1;1;1
-TRA-EQ-113v14-1;TRA-EQ-113;TRA;Transport;EQ;Equipement;Lubrifiant économiseur d'énergie pour des véhicules de transport de personnes ou de marchandises;A14-1;2015-01-01;;1;1;1
-TRA-EQ-114v16-1;TRA-EQ-114;TRA;Transport;EQ;Equipement;Remplacement de véhicules par des véhicules neufs performants dans une flotte professionnelle;A16-1;2015-01-01;;1;1;1
-TRA-EQ-115v14-1;TRA-EQ-115;TRA;Transport;EQ;Equipement;Véhicules de transport de marchandises optimisé;A14-1;2015-01-01;;1;1;1
-TRA-EQ-117v16-1;TRA-EQ-117;TRA;Transport;EQ;Equipement;Remplacement de véhicules par des véhicules neufs performants pour les particuliers ou les collectivités;A16-1;2015-01-01;;1;1;1
-TRA-EQ-118v15-1;TRA-EQ-118;TRA;Transport;EQ;Equipement;Lubrifiant économiseur d'énergie pour la pêche professionnelle;A15-1;2015-01-01;;1;1;1
-TRA-EQ-119v14-1;TRA-EQ-119;TRA;Transport;EQ;Equipement;Optimisation de la combustion et de la propreté des moteurs Diesel;A14-1;2015-01-01;2015-09-30;1;1;1
-TRA-EQ-119v17-2;TRA-EQ-119;TRA;Transport;EQ;Equipement;Optimisation de la combustion et de la propreté des moteurs Diesel;A17-2;2015-10-01;;1;1;2
-TRA-EQ-120v27-1;TRA-EQ-120;TRA;Transport;EQ;Equipement;Hélice avec tuyère sur une unité de transport fluvial;A27-1;2018-01-11;;1;1;1
-TRA-EQ-121v28-1;TRA-EQ-121;TRA;Transport;EQ;Equipement;Vélo à assistance électrique;A28-1;2018-12-19;2023-12-31;1;1;1
-TRA-EQ-121v54-2;TRA-EQ-121;TRA;Transport;EQ;Equipement;Vélo à assistance électrique;A54-2;2024-01-01;2028-06-30;1;1;2
-TRA-EQ-123v32-1;TRA-EQ-123;TRA;Transport;EQ;Equipement;Simulateur de conduite;A32-1;2020-01-31;2021-10-31;1;1;1
-TRA-EQ-123v38-2;TRA-EQ-123;TRA;Transport;EQ;Equipement;Simulateur de conduite;A38-2;2021-11-01;;1;1;2
-TRA-EQ-124v35-1;TRA-EQ-124;TRA;Transport;EQ;Equipement;Branchement électrique des navires et bateaux à quai;A35-1;2020-08-03;;1;1;1
-TRA-EQ-125v38-1;TRA-EQ-125;TRA;Transport;EQ;Equipement;« Stop & Start » pour véhicules ferroviaires;A38-1;2021-07-31;2022-03-31;1;1;1
-TRA-EQ-125v40-2;TRA-EQ-125;TRA;Transport;EQ;Equipement;« Stop & Start » pour véhicules ferroviaires;A40-2;2022-04-01;;1;1;2
-TRA-EQ-126v43-1;TRA-EQ-126;TRA;Transport;EQ;Equipement;Remotorisation en propulsion électrique ou hybride d'un bateau naviguant en eaux intérieures;A43-1;2022-02-23;;1;1;1
-TRA-EQ-127v54-1;TRA-EQ-127;TRA;Transport;EQ;Equipement;Acquisition d'un bateau neuf à propulsion électrique ou hybride, naviguant en eaux intérieures;A54-1;2023-09-30;2028-06-30;1;1;1
-TRA-SE-101v14-1;TRA-SE-101;TRA;Transport;SE;Service;Formation d'un chauffeur de transport à la conduite économe;A14-1;2015-01-01;;1;1;1
-TRA-SE-102v14-1;TRA-SE-102;TRA;Transport;SE;Service;Formation d'un chauffeur de véhicule léger à la conduite économe;A14-1;2015-01-01;;1;1;1
-TRA-SE-104v14-1;TRA-SE-104;TRA;Transport;SE;Service;Station de gonflage des pneumatiques;A14-1;2015-01-01;;1;1;1
-TRA-SE-105v14-1;TRA-SE-105;TRA;Transport;SE;Service;Recreusage des pneumatiques;A14-1;2015-01-01;;1;1;1
-TRA-SE-106v17-1;TRA-SE-106;TRA;Transport;SE;Service;Mesure et optimisation des consommations de carburant pour une unité de transport fluvial;A17-1;2015-01-01;2014-12-31;1;1;1
-TRA-SE-106v19-2;TRA-SE-106;TRA;Transport;SE;Service;Mesure et optimisation des consommations de carburant pour une unité de transport fluvial;A19-2;2015-01-01;;1;1;2
-TRA-SE-107v19-1;TRA-SE-107;TRA;Transport;SE;Service;Carénage sur une unité de transport fluvial;A19-1;2015-01-01;;1;1;1
-TRA-SE-108v14-1;TRA-SE-108;TRA;Transport;SE;Service;Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de marchandises);A14-1;2015-01-01;;1;1;1
-TRA-SE-109v14-1;TRA-SE-109;TRA;Transport;SE;Service;Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de personnes);A14-1;2015-01-01;;1;1;1
-TRA-SE-110v14-1;TRA-SE-110;TRA;Transport;SE;Service;Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de marchandises);A14-1;2015-01-01;;1;1;1
-TRA-SE-111v14-1;TRA-SE-111;TRA;Transport;SE;Service;Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de personnes);A14-1;2015-01-01;;1;1;1
-TRA-SE-112v15-1;TRA-SE-112;TRA;Transport;SE;Service;Service d'autopartage en boucle;A15-1;2015-01-01;;1;1;1
-TRA-SE-113v14-1;TRA-SE-113;TRA;Transport;SE;Service;Suivi des consommations de carburants grâce à des cartes privatives;A14-1;2015-01-01;;1;1;1
-TRA-SE-114v47-1;TRA-SE-114;TRA;Transport;SE;Service;Covoiturage de longue distance;A47-1;2023-01-01;;1;1;1
-TRA-SE-115v47-1;TRA-SE-115;TRA;Transport;SE;Service;Covoiturage de courte distance;A47-1;2023-01-01;;1;1;1
-TRA-SE-116v49-1;TRA-SE-116;TRA;Transport;SE;Service;Fret ferroviaire;A49-1;2022-10-29;2023-12-31;1;1;1
-TRA-SE-116v54-2;TRA-SE-116;TRA;Transport;SE;Service;Fret ferroviaire;A54-2;2024-01-01;2028-06-30;1;1;2
+eaux grises";A28-1;19/12/2018;;1;1;1
+BAT-TH-155v28-1;BAT-TH-155;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation de points singuliers d'un réseau;A28-1;19/12/2018;30/09/2023;1;1;1
+BAT-TH-155v54-2;BAT-TH-155;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation de points singuliers d'un réseau;A54-2;01/10/2023;;1;1;2
+BAT-TH-156v31-1;BAT-TH-156;BAT;Bâtiment Tertiaire;TH;Thermique;Freecooling par eau de refroidissement en substitution d'un groupe froid pour la climatisation;A31-1;01/09/2019;;1;1;1
+BAT-TH-157v34-1;BAT-TH-157;BAT;Bâtiment Tertiaire;TH;Thermique;Chaudière biomasse collective;A34-1;20/05/2020;31/03/2023;1;1;1
+BAT-TH-157v50-2;BAT-TH-157;BAT;Bâtiment Tertiaire;TH;Thermique;Chaudière biomasse collective;A50-2;01/04/2023;;1;1;2
+BAT-TH-158v40-1;BAT-TH-158;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur réversible de type air/air;A40-1;29/12/2021;30/01/2022;1;1;1
+BAT-TH-158v42-2;BAT-TH-158;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur réversible de type air/air;A42-2;31/01/2022;;1;1;2
+BAT-TH-159v40-1;BAT-TH-159;BAT;Bâtiment Tertiaire;TH;Thermique;Raccordement d'un bâtiment tertiaire à un réseau de froid;A40-1;29/12/2021;;1;1;1
+BAT-TH-160v54-1;BAT-TH-160;BAT;Bâtiment Tertiaire;TH;Thermique;Vannes de régulation étanches à servomoteurs économes (France métropolitaine);A54-1;30/09/2023;30/06/2028;1;0;1
+IND-BA-110v14-1;IND-BA-110;IND;Industrie;BA;Bâtiment;Dé-stratificateur ou brasseur d'air;A14-1;01/01/2015;12/03/2016;1;1;1
+IND-BA-110v20-2;IND-BA-110;IND;Industrie;BA;Bâtiment;Dé-stratificateur ou brasseur d'air;A20-2;13/03/2016;;1;1;2
+IND-BA-112v14-1;IND-BA-112;IND;Industrie;BA;Bâtiment;Système de récupération de chaleur sur une tour aéroréfrigérante;A14-1;01/01/2015;30/09/2015;1;1;1
+IND-BA-112v17-2;IND-BA-112;IND;Industrie;BA;Bâtiment;Système de récupération de chaleur sur une tour aéroréfrigérante;A17-2;01/10/2015;;1;1;2
+IND-BA-113v26-1;IND-BA-113;IND;Industrie;BA;Bâtiment;Lanterneaux d'éclairage zénithal (France Métropolitaine);A26-1;01/01/2015;;1;0;1
+IND-BA-114v15-1;IND-BA-114;IND;Industrie;BA;Bâtiment;Conduits de lumière naturelle;A15-1;01/01/2015;;1;1;1
+IND-BA-115v16-1;IND-BA-115;IND;Industrie;BA;Bâtiment;Tubes à LED à éclairage hémisphérique;A16-1;01/01/2015;31/12/2015;1;1;1
+IND-BA-115v19-2;IND-BA-115;IND;Industrie;BA;Bâtiment;Tubes à LED à éclairage hémisphérique;A19-2;01/01/2016;31/03/2019;1;1;2
+IND-BA-116v27-1;IND-BA-116;IND;Industrie;BA;Bâtiment;Luminaires à modules LED;A27-1;11/01/2018;31/03/2022;1;1;1
+IND-BA-116v40-2;IND-BA-116;IND;Industrie;BA;Bâtiment;Luminaires à modules LED;A40-2;01/04/2022;;1;1;2
+IND-BA-117v27-1;IND-BA-117;IND;Industrie;BA;Bâtiment;Chauffage décentralisé performant;A27-1;11/01/2018;;1;1;1
+IND-EN-101v23-1;IND-EN-101;IND;Industrie;EN;Enveloppe;Isolation des murs (France d'outre-mer);A23-1;01/01/2015;;0;1;1
+IND-EN-102v19-1;IND-EN-102;IND;Industrie;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A19-1;04/01/2016;31/08/2020;0;1;1
+IND-EN-102v33-2;IND-EN-102;IND;Industrie;EN;Enveloppe;Isolation de combles ou de toitures (France d'outre-mer);A33-2;01/09/2020;;0;1;2
+IND-UT-102v14-1;IND-UT-102;IND;Industrie;UT;Utilités;Système de variation électronique de vitesse sur un moteur asynchrone;A14-1;01/01/2015;31/12/2015;1;1;1
+IND-UT-102v19-2;IND-UT-102;IND;Industrie;UT;Utilités;Système de variation électronique de vitesse sur un moteur asynchrone;A19-2;01/01/2016;;1;1;2
+IND-UT-103v14-1;IND-UT-103;IND;Industrie;UT;Utilités;Système de récupération de chaleur sur un compresseur d'air;A14-1;01/01/2015;30/09/2015;1;1;1
+IND-UT-103v17-2;IND-UT-103;IND;Industrie;UT;Utilités;Système de récupération de chaleur sur un compresseur d'air;A17-2;01/10/2015;;1;1;2
+IND-UT-104v14-1;IND-UT-104;IND;Industrie;UT;Utilités;Économiseur sur les effluents gazeux d'une chaudière de production de vapeur;A14-1;01/01/2015;;1;1;1
+IND-UT-105v14-1;IND-UT-105;IND;Industrie;UT;Utilités;Brûleur micromodulant sur chaudière industrielle;A14-1;01/01/2015;;1;1;1
+IND-UT-112v14-1;IND-UT-112;IND;Industrie;UT;Utilités;Moteur haut rendement de classe IE2;A14-1;01/01/2015;31/03/2022;1;1;1
+IND-UT-113v14-1;IND-UT-113;IND;Industrie;UT;Utilités;Système de condensation frigorifique à haute efficacité;A14-1;01/01/2015;;1;1;1
+IND-UT-114v14-1;IND-UT-114;IND;Industrie;UT;Utilités;Moto-variateur synchrone à aimants permanents ou à reluctance;A14-1;01/01/2015;22/12/2016;1;1;1
+IND-UT-114v24-2;IND-UT-114;IND;Industrie;UT;Utilités;Moto-variateur synchrone à aimants permanents ou à reluctance;A24-2;23/12/2016;;1;1;2
+IND-UT-115v15-1;IND-UT-115;IND;Industrie;UT;Utilités;Système de régulation sur un groupe de production de froid permettant d'avoir une basse pression flottante;A15-1;01/01/2015;;1;1;1
+IND-UT-116v14-1;IND-UT-116;IND;Industrie;UT;Utilités;Système de régulation sur un groupe de production de froid permettant d'avoir une haute pression flottante;A14-1;01/01/2015;;1;1;1
+IND-UT-117v14-1;IND-UT-117;IND;Industrie;UT;Utilités;Système de récupération de chaleur sur un groupe de production de froid;A14-1;01/01/2015;30/09/2015;1;1;1
+IND-UT-117v17-2;IND-UT-117;IND;Industrie;UT;Utilités;Système de récupération de chaleur sur un groupe de production de froid;A17-2;01/10/2015;31/03/2018;1;1;2
+IND-UT-117v27-3;IND-UT-117;IND;Industrie;UT;Utilités;Système de récupération de chaleur sur un groupe de production de froid;A27-3;01/04/2018;30/09/2020;1;1;3
+IND-UT-117v35-4;IND-UT-117;IND;Industrie;UT;Utilités;Système de récupération de chaleur sur un groupe de production de froid;A35-4;01/10/2020;;1;1;4
+IND-UT-118v14-1;IND-UT-118;IND;Industrie;UT;Utilités;Brûleur avec dispositif de récupération de chaleur sur un four industriel;A14-1;01/01/2015;;1;1;1
+IND-UT-120v14-1;IND-UT-120;IND;Industrie;UT;Utilités;Compresseur d'air basse pression à vis ou centrifuge;A14-1;01/01/2015;;1;1;1
+IND-UT-121v14-1;IND-UT-121;IND;Industrie;UT;Utilités;Matelas pour l'isolation de points singuliers;A14-1;01/01/2015;31/12/2018;1;1;1
+IND-UT-121v28-2;IND-UT-121;IND;Industrie;UT;Utilités;Matelas pour l'isolation de points singuliers;A28-2;01/01/2019;31/03/2022;1;1;2
+IND-UT-121v40-3;IND-UT-121;IND;Industrie;UT;Utilités;Matelas pour l'isolation de points singuliers;A40-3;01/04/2022;30/09/2023;1;1;3
+IND-UT-121v54-4;IND-UT-121;IND;Industrie;UT;Utilités;Matelas pour l'isolation de points singuliers;A54-4;01/10/2023;;1;1;4
+IND-UT-122v14-1;IND-UT-122;IND;Industrie;UT;Utilités;Sécheur d'air comprimé à adsorption utilisant un apport calorifique pour sa régénération;A14-1;01/01/2015;;1;1;1
+IND-UT-123v14-1;IND-UT-123;IND;Industrie;UT;Utilités;Moteur premium de classe IE3;A14-1;01/01/2015;31/08/2022;1;1;1
+IND-UT-124v14-1;IND-UT-124;IND;Industrie;UT;Utilités;Séquenceur électronique pour le pilotage d'une centrale de production d'air comprimé;A14-1;01/01/2015;;1;1;1
+IND-UT-125v14-1;IND-UT-125;IND;Industrie;UT;Utilités;Traitement d'eau performant sur chaudière de production de vapeur;A14-1;01/01/2015;;1;1;1
+IND-UT-127v14-1;IND-UT-127;IND;Industrie;UT;Utilités;Système de transmission performant;A14-1;01/01/2015;31/12/2014;1;1;1
+IND-UT-127v25-2;IND-UT-127;IND;Industrie;UT;Utilités;Système de transmission performant;A25-2;01/01/2015;;1;1;2
+IND-UT-129v14-1;IND-UT-129;IND;Industrie;UT;Utilités;Presse à injecter tout électrique ou hybride;A14-1;01/01/2015;31/12/2018;1;1;1
+IND-UT-129v28-2;IND-UT-129;IND;Industrie;UT;Utilités;Presse à injecter tout électrique ou hybride;A28-2;01/01/2019;;1;1;2
+IND-UT-130v19-1;IND-UT-130;IND;Industrie;UT;Utilités;Condenseur sur les effluents gazeux d'une chaudière de production de vapeur;A19-1;04/01/2016;;1;1;1
+IND-UT-131v24-1;IND-UT-131;IND;Industrie;UT;Utilités;Isolation thermique des parois planes ou cylindriques sur des installations industrielles (France métropolitaine);A24-1;23/12/2016;31/03/2020;1;1;1
+IND-UT-131v37-2;IND-UT-131;IND;Industrie;UT;Utilités;Isolation thermique des parois planes ou cylindriques sur des installations industrielles (France métropolitaine);A37-2;01/04/2020;;1;1;2
+IND-UT-132v26-1;IND-UT-132;IND;Industrie;UT;Utilités;Moteur asynchrone de classe IE4;A26-1;09/08/2017;;1;1;1
+IND-UT-133v28-1;IND-UT-133;IND;Industrie;UT;Utilités;Système électronique de pilotage d'un moteur électrique avec récupération d'énergie;A28-1;19/12/2018;;1;1;1
+IND-UT-134v28-1;IND-UT-134;IND;Industrie;UT;Utilités;Système de mesurage d'indicateurs de performance énergétique;A28-1;19/12/2018;30/09/2020;1;1;1
+IND-UT-134v35-2;IND-UT-134;IND;Industrie;UT;Utilités;Système de mesurage d'indicateurs de performance énergétique;A35-2;01/10/2020;;1;1;2
+IND-UT-135v31-1;IND-UT-135;IND;Industrie;UT;Utilités;Freecooling par eau de refroidissement en substitution d'un groupe froid;A31-1;01/09/2019;;1;1;1
+IND-UT-136v31-1;IND-UT-136;IND;Industrie;UT;Utilités;Systèmes moto-régulés;A31-1;01/09/2019;;1;1;1
+RES-CH-101v16-1;RES-CH-101;RES;Réseaux;CH;Chaleur et Froid;Valorisation de chaleur de récupération en réseau (France métropolitaine);A16-1;01/01/2015;;1;0;1
+RES-CH-103v16-1;RES-CH-103;RES;Réseaux;CH;Chaleur et Froid;Réhabilitation d'un poste de livraison de chaleur d'un bâtiment tertiaire;A16-1;01/01/2015;30/09/2020;1;1;1
+RES-CH-103v35-2;RES-CH-103;RES;Réseaux;CH;Chaleur et Froid;Réhabilitation d'un poste de livraison de chaleur d'un bâtiment tertiaire;A35-2;01/10/2020;11/10/2020;1;1;2
+RES-CH-103v36-3;RES-CH-103;RES;Réseaux;CH;Chaleur et Froid;Réhabilitation d'un poste de livraison de chaleur d'un bâtiment tertiaire;A36-3;12/10/2020;;1;1;3
+RES-CH-104v16-1;RES-CH-104;RES;Réseaux;CH;Chaleur et Froid;Réhabilitation d'un poste de livraison de chaleur d'un bâtiment résidentiel;A16-1;01/01/2015;30/09/2020;1;1;1
+RES-CH-104v35-2;RES-CH-104;RES;Réseaux;CH;Chaleur et Froid;Réhabilitation d'un poste de livraison de chaleur d'un bâtiment résidentiel;A35-2;01/10/2020;11/10/2020;1;1;2
+RES-CH-104v36-3;RES-CH-104;RES;Réseaux;CH;Chaleur et Froid;Réhabilitation d'un poste de livraison de chaleur d'un bâtiment résidentiel;A36-3;12/10/2020;;1;1;3
+RES-CH-105v24-1;RES-CH-105;RES;Réseaux;CH;Chaleur et Froid;Passage d'un réseau de chaleur en basse température;A24-1;23/12/2016;30/09/2020;1;1;1
+RES-CH-105v35-2;RES-CH-105;RES;Réseaux;CH;Chaleur et Froid;Passage d'un réseau de chaleur en basse température;A35-2;01/10/2020;11/10/2020;1;1;2
+RES-CH-105v36-3;RES-CH-105;RES;Réseaux;CH;Chaleur et Froid;Passage d'un réseau de chaleur en basse température;A36-3;12/10/2020;;1;1;3
+RES-CH-106v25-1;RES-CH-106;RES;Réseaux;CH;Chaleur et Froid;Mise en place d'un calorifugeage des canalisations d'un réseau de chaleur;A25-1;01/01/2015;31/10/2021;1;1;1
+RES-CH-106v38-2;RES-CH-106;RES;Réseaux;CH;Chaleur et Froid;Mise en place d'un calorifugeage des canalisations d'un réseau de chaleur;A38-2;01/11/2021;31/03/2023;1;1;2
+RES-CH-106v50-3;RES-CH-106;RES;Réseaux;CH;Chaleur et Froid;Mise en place d'un calorifugeage des canalisations d'un réseau de chaleur;A50-3;01/04/2023;;1;1;3
+RES-CH-107v24-1;RES-CH-107;RES;Réseaux;CH;Chaleur et Froid;Isolation de points singuliers sur un réseau de chaleur;A24-1;23/12/2016;30/09/2020;1;1;1
+RES-CH-107v35-2;RES-CH-107;RES;Réseaux;CH;Chaleur et Froid;Isolation de points singuliers sur un réseau de chaleur;A35-2;01/10/2020;11/10/2020;1;1;2
+RES-CH-107v36-3;RES-CH-107;RES;Réseaux;CH;Chaleur et Froid;Isolation de points singuliers sur un réseau de chaleur;A36-3;12/10/2020;;1;1;3
+RES-CH-108v32-1;RES-CH-108;RES;Réseaux;CH;Chaleur et Froid;Récupération de chaleur fatale pour valorisation sur un réseau de chaleur ou vers un tiers (France métropolitaine);A32-1;01/04/2020;19/05/2020;1;0;1
+RES-CH-108v34-2;RES-CH-108;RES;Réseaux;CH;Chaleur et Froid;Récupération de chaleur fatale pour valorisation sur un réseau de chaleur ou vers un tiers (France métropolitaine);A34-2;20/05/2020;31/03/2021;1;0;2
+RES-CH-108v37-3;RES-CH-108;RES;Réseaux;CH;Chaleur et Froid;Récupération de chaleur fatale pour valorisation sur un réseau de chaleur ou vers un tiers (France métropolitaine);A37-3;01/04/2021;;1;0;3
+RES-EC-101v14-1;RES-EC-101;RES;Réseaux;EC;Eclairage;Système de régulation de tension en éclairage extérieur;A14-1;01/01/2015;31/03/2022;1;1;1
+RES-EC-102v14-1;RES-EC-102;RES;Réseaux;EC;Eclairage;Système de maîtrise de la puissance réactive en éclairage extérieur;A14-1;01/01/2015;31/03/2022;1;1;1
+RES-EC-103v14-1;RES-EC-103;RES;Réseaux;EC;Eclairage;Système de variation de puissance en éclairage extérieur;A14-1;01/01/2015;;1;1;1
+RES-EC-104v14-1;RES-EC-104;RES;Réseaux;EC;Eclairage;Rénovation d'éclairage extérieur;A14-1;01/01/2015;;1;1;1
+RES-EC-107v14-1;RES-EC-107;RES;Réseaux;EC;Eclairage;Horloge astronomique pour l'éclairage extérieur;A14-1;01/01/2015;31/03/2022;1;1;1
+TRA-EQ-101v14-1;TRA-EQ-101;TRA;Transport;EQ;Equipement;Unité de transport intermodal pour le transport combiné rail-route;A14-1;01/01/2015;;1;1;1
+TRA-EQ-103v14-1;TRA-EQ-103;TRA;Transport;EQ;Equipement;Télématique embarquée pour le suivi de la conduite d'un véhicule;A14-1;01/01/2015;;1;1;1
+TRA-EQ-104v14-1;TRA-EQ-104;TRA;Transport;EQ;Equipement;Lubrifiant économiseur d'énergie pour véhicules légers;A14-1;01/01/2015;;1;1;1
+TRA-EQ-106v14-1;TRA-EQ-106;TRA;Transport;EQ;Equipement;Pneus de véhicules légers à basse résistance au roulement;A14-1;01/01/2015;;1;1;1
+TRA-EQ-107v17-1;TRA-EQ-107;TRA;Transport;EQ;Equipement;Unité de transport intermodal pour le transport combiné fluvial-route;A17-1;01/01/2015;;1;1;1
+TRA-EQ-108v19-1;TRA-EQ-108;TRA;Transport;EQ;Equipement;Wagon d'autoroute ferroviaire;A19-1;01/01/2015;09/10/2016;1;1;1
+TRA-EQ-108v23-2;TRA-EQ-108;TRA;Transport;EQ;Equipement;Wagon d'autoroute ferroviaire;A23-2;10/10/2016;08/08/2017;1;1;2
+TRA-EQ-108v26-3;TRA-EQ-108;TRA;Transport;EQ;Equipement;Wagon d'autoroute ferroviaire;A26-3;09/08/2017;18/12/2018;1;1;3
+TRA-EQ-108v28-4;TRA-EQ-108;TRA;Transport;EQ;Equipement;Wagon d'autoroute ferroviaire;A28-4;19/12/2018;30/01/2020;1;1;4
+TRA-EQ-108v32-5;TRA-EQ-108;TRA;Transport;EQ;Equipement;Wagon d'autoroute ferroviaire;A32-5;31/01/2020;31/03/2020;1;1;5
+TRA-EQ-108v37-6;TRA-EQ-108;TRA;Transport;EQ;Equipement;Wagon d'autoroute ferroviaire;A37-6;01/04/2020;;1;1;6
+TRA-EQ-109v17-1;TRA-EQ-109;TRA;Transport;EQ;Equipement;Barge fluviale;A17-1;01/01/2015;;1;1;1
+TRA-EQ-110v19-1;TRA-EQ-110;TRA;Transport;EQ;Equipement;Automoteur fluvial;A19-1;01/01/2015;;1;1;1
+TRA-EQ-111v24-1;TRA-EQ-111;TRA;Transport;EQ;Equipement;Groupes frigorifiques autonomes à haute efficacité énergétique pour camions, semi remorques, remorques et caisses mobiles frigorifiques;A24-1;23/12/2016;;1;1;1
+TRA-EQ-113v14-1;TRA-EQ-113;TRA;Transport;EQ;Equipement;Lubrifiant économiseur d'énergie pour des véhicules de transport de personnes ou de marchandises;A14-1;01/01/2015;;1;1;1
+TRA-EQ-114v16-1;TRA-EQ-114;TRA;Transport;EQ;Equipement;Remplacement de véhicules par des véhicules neufs performants dans une flotte professionnelle;A16-1;01/01/2015;;1;1;1
+TRA-EQ-115v14-1;TRA-EQ-115;TRA;Transport;EQ;Equipement;Véhicules de transport de marchandises optimisé;A14-1;01/01/2015;;1;1;1
+TRA-EQ-117v16-1;TRA-EQ-117;TRA;Transport;EQ;Equipement;Remplacement de véhicules par des véhicules neufs performants pour les particuliers ou les collectivités;A16-1;01/01/2015;;1;1;1
+TRA-EQ-118v15-1;TRA-EQ-118;TRA;Transport;EQ;Equipement;Lubrifiant économiseur d'énergie pour la pêche professionnelle;A15-1;01/01/2015;;1;1;1
+TRA-EQ-119v14-1;TRA-EQ-119;TRA;Transport;EQ;Equipement;Optimisation de la combustion et de la propreté des moteurs Diesel;A14-1;01/01/2015;30/09/2015;1;1;1
+TRA-EQ-119v17-2;TRA-EQ-119;TRA;Transport;EQ;Equipement;Optimisation de la combustion et de la propreté des moteurs Diesel;A17-2;01/10/2015;;1;1;2
+TRA-EQ-120v27-1;TRA-EQ-120;TRA;Transport;EQ;Equipement;Hélice avec tuyère sur une unité de transport fluvial;A27-1;11/01/2018;;1;1;1
+TRA-EQ-121v28-1;TRA-EQ-121;TRA;Transport;EQ;Equipement;Vélo à assistance électrique;A28-1;19/12/2018;31/12/2023;1;1;1
+TRA-EQ-121v54-2;TRA-EQ-121;TRA;Transport;EQ;Equipement;Vélo à assistance électrique;A54-2;01/01/2024;30/06/2028;1;1;2
+TRA-EQ-123v32-1;TRA-EQ-123;TRA;Transport;EQ;Equipement;Simulateur de conduite;A32-1;31/01/2020;31/10/2021;1;1;1
+TRA-EQ-123v38-2;TRA-EQ-123;TRA;Transport;EQ;Equipement;Simulateur de conduite;A38-2;01/11/2021;;1;1;2
+TRA-EQ-124v35-1;TRA-EQ-124;TRA;Transport;EQ;Equipement;Branchement électrique des navires et bateaux à quai;A35-1;03/08/2020;;1;1;1
+TRA-EQ-125v38-1;TRA-EQ-125;TRA;Transport;EQ;Equipement;« Stop & Start » pour véhicules ferroviaires;A38-1;31/07/2021;31/03/2022;1;1;1
+TRA-EQ-125v40-2;TRA-EQ-125;TRA;Transport;EQ;Equipement;« Stop & Start » pour véhicules ferroviaires;A40-2;01/04/2022;;1;1;2
+TRA-EQ-126v43-1;TRA-EQ-126;TRA;Transport;EQ;Equipement;Remotorisation en propulsion électrique ou hybride d'un bateau naviguant en eaux intérieures;A43-1;23/02/2022;;1;1;1
+TRA-EQ-127v54-1;TRA-EQ-127;TRA;Transport;EQ;Equipement;Acquisition d'un bateau neuf à propulsion électrique ou hybride, naviguant en eaux intérieures;A54-1;30/09/2023;30/06/2028;1;1;1
+TRA-SE-101v14-1;TRA-SE-101;TRA;Transport;SE;Service;Formation d'un chauffeur de transport à la conduite économe;A14-1;01/01/2015;;1;1;1
+TRA-SE-102v14-1;TRA-SE-102;TRA;Transport;SE;Service;Formation d'un chauffeur de véhicule léger à la conduite économe;A14-1;01/01/2015;;1;1;1
+TRA-SE-104v14-1;TRA-SE-104;TRA;Transport;SE;Service;Station de gonflage des pneumatiques;A14-1;01/01/2015;;1;1;1
+TRA-SE-105v14-1;TRA-SE-105;TRA;Transport;SE;Service;Recreusage des pneumatiques;A14-1;01/01/2015;;1;1;1
+TRA-SE-106v17-1;TRA-SE-106;TRA;Transport;SE;Service;Mesure et optimisation des consommations de carburant pour une unité de transport fluvial;A17-1;01/01/2015;31/12/2014;1;1;1
+TRA-SE-106v19-2;TRA-SE-106;TRA;Transport;SE;Service;Mesure et optimisation des consommations de carburant pour une unité de transport fluvial;A19-2;01/01/2015;;1;1;2
+TRA-SE-107v19-1;TRA-SE-107;TRA;Transport;SE;Service;Carénage sur une unité de transport fluvial;A19-1;01/01/2015;;1;1;1
+TRA-SE-108v14-1;TRA-SE-108;TRA;Transport;SE;Service;Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de marchandises);A14-1;01/01/2015;;1;1;1
+TRA-SE-109v14-1;TRA-SE-109;TRA;Transport;SE;Service;Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de personnes);A14-1;01/01/2015;;1;1;1
+TRA-SE-110v14-1;TRA-SE-110;TRA;Transport;SE;Service;Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de marchandises);A14-1;01/01/2015;;1;1;1
+TRA-SE-111v14-1;TRA-SE-111;TRA;Transport;SE;Service;Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de personnes);A14-1;01/01/2015;;1;1;1
+TRA-SE-112v15-1;TRA-SE-112;TRA;Transport;SE;Service;Service d'autopartage en boucle;A15-1;01/01/2015;;1;1;1
+TRA-SE-113v14-1;TRA-SE-113;TRA;Transport;SE;Service;Suivi des consommations de carburants grâce à des cartes privatives;A14-1;01/01/2015;;1;1;1
+TRA-SE-114v47-1;TRA-SE-114;TRA;Transport;SE;Service;Covoiturage de longue distance;A47-1;01/01/2023;;1;1;1
+TRA-SE-115v47-1;TRA-SE-115;TRA;Transport;SE;Service;Covoiturage de courte distance;A47-1;01/01/2023;;1;1;1
+TRA-SE-116v49-1;TRA-SE-116;TRA;Transport;SE;Service;Fret ferroviaire;A49-1;29/10/2022;31/12/2023;1;1;1
+TRA-SE-116v54-2;TRA-SE-116;TRA;Transport;SE;Service;Fret ferroviaire;A54-2;01/01/2024;30/06/2028;1;1;2
