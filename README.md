@@ -38,9 +38,11 @@ Base de données des opérations valorisables au titre du dispositif des Certifi
 
 | Propriété | Type | Description |
 |:---------:|:----:|:-----------:|
-| **id** | string | Identifiant unique de la bonification au format code + version |
+| **@id** | string | Identifiant unique de la bonification au format code fiche + code + version |
+| **id** | string | Identifiant de la bonification au format code + version |
 | **code** | string | Code de la bonification |
-| **code_nature** | string | Code de la bonification au format de l'annexe 6 de l'arrêté du 4 septembre 2014 |
+| **nature** | string | Code de la bonification au format de l'annexe 6 de l'arrêté du 4 septembre 2014 |
+| **code_fiche** | string | Code de la fiche d'opération standardisée bonifiée |
 | **nom** | string | Nom de la bonification |
 | **version** | string | Code de la version de l'arrêté applicable |
 | **date_debut** | date | Date d'application de la version de la boninification |
@@ -57,15 +59,6 @@ Base de données des opérations valorisables au titre du dispositif des Certifi
 | **version** | string | Code de la version de l'arrêté applicable |
 | **date_debut** | date | Date d'application de la version du bonus |
 | **date_fin** | date | Date de fin d'application de la version du bonus |
-
-### Rapprochement Fiche - Bonification
-
-| Propriété | Type | Description |
-|:---------:|:----:|:-----------:|
-| **code_fiche** | string | Code de la fiche d'opération standardisée |
-| **nom_fiche** | string | Nom de la fiche d'opération standardisée |
-| **code_bonification** | string | Code de la bonification |
-| **nom_bonification** | string | Nom de la bonification |
 
 ## Références réglementaires
 
