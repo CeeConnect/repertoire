@@ -67,15 +67,9 @@ BAR-EQ-101v14-1;BAR-EQ-101;BAR;Bâtiment Résidentiel;EQ;Equipement;Lampe fluo-c
 BAR-EQ-102v15-1;BAR-EQ-102;BAR;Bâtiment Résidentiel;EQ;Equipement;Lave-linge ménager de classe A++ ou A+++;A15-1;2015-01-01;2022-08-31;1;1;1
 BAR-EQ-103v15-1;BAR-EQ-103;BAR;Bâtiment Résidentiel;EQ;Equipement;Appareil de réfrigération ménager de classe A++ ou A+++;A15-1;2015-01-01;2022-08-31;1;1;1
 BAR-EQ-110v15-1;BAR-EQ-110;BAR;Bâtiment Résidentiel;EQ;Equipement;Luminaire à modules LED avec dispositif de contrôle pour les parties communes;A15-1;2015-01-01;;1;1;1
-BAR-EQ-111v14-1;BAR-EQ-111;BAR;Bâtiment Résidentiel;EQ;Equipement;"Lampe à LED de classe A+ (< 01/10/2017)
-Lampe de classe A++
-(> 01/10/2017)";A14-1;2015-01-01;2016-06-30;1;1;1
-BAR-EQ-111v21-2;BAR-EQ-111;BAR;Bâtiment Résidentiel;EQ;Equipement;"Lampe à LED de classe A+ (< 01/10/2017)
-Lampe de classe A++
-(> 01/10/2017)";A21-2;2016-07-01;2017-09-30;1;1;2
-BAR-EQ-111v26-3;BAR-EQ-111;BAR;Bâtiment Résidentiel;EQ;Equipement;"Lampe à LED de classe A+ (< 01/10/2017)
-Lampe de classe A++
-(> 01/10/2017)";A26-3;2017-10-01;2022-03-31;1;1;3
+BAR-EQ-111v14-1;BAR-EQ-111;BAR;Bâtiment Résidentiel;EQ;Equipement;Lampe à LED de classe A+ (< 01/10/2017) Lampe de classe A++ (> 01/10/2017);A14-1;2015-01-01;2016-06-30;1;1;1
+BAR-EQ-111v21-2;BAR-EQ-111;BAR;Bâtiment Résidentiel;EQ;Equipement;Lampe à LED de classe A+ (< 01/10/2017) Lampe de classe A++ (> 01/10/2017);A21-2;2016-07-01;2017-09-30;1;1;2
+BAR-EQ-111v26-3;BAR-EQ-111;BAR;Bâtiment Résidentiel;EQ;Equipement;Lampe à LED de classe A+ (< 01/10/2017) Lampe de classe A++ (> 01/10/2017);A26-3;2017-10-01;2022-03-31;1;1;3
 BAR-EQ-112v14-1;BAR-EQ-112;BAR;Bâtiment Résidentiel;EQ;Equipement;Systèmes hydroéconomes (France métropolitaine);A14-1;2015-01-01;2014-12-31;1;0;1
 BAR-EQ-112v15-2;BAR-EQ-112;BAR;Bâtiment Résidentiel;EQ;Equipement;Systèmes hydroéconomes (France métropolitaine);A15-2;2015-01-01;2016-04-30;1;0;2
 BAR-EQ-113v17-1;BAR-EQ-113;BAR;Bâtiment Résidentiel;EQ;Equipement;Dispositif d'affichage et d'interprétation des consommations pour un logement chauffé à l'électricité;A17-1;2015-01-01;2018-12-31;1;1;1
@@ -174,8 +168,7 @@ BAR-TH-164v36-2;BAR-TH-164;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation g
 BAR-TH-164v52-3;BAR-TH-164;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'une maison individuelle (France métropolitaine);A52-3;2023-07-01;;1;0;3
 BAR-TH-165v34-1;BAR-TH-165;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière biomasse collective;A34-1;2020-05-20;;1;1;1
 BAR-TH-166v38-1;BAR-TH-166;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur collective de type air/eau ou eau/eau;A38-1;2021-07-31;;1;1;1
-BAR-TH-167v38-1;BAR-TH-167;BAR;Bâtiment Résidentiel;TH;Thermique;"Chauffe-bain individuel à haut rendement ou à condensation
-(France métropolitaine)";A38-1;2021-07-31;;1;0;1
+BAR-TH-167v38-1;BAR-TH-167;BAR;Bâtiment Résidentiel;TH;Thermique;Chauffe-bain individuel à haut rendement ou à condensation (France métropolitaine);A38-1;2021-07-31;;1;0;1
 BAR-TH-168v40-1;BAR-TH-168;BAR;Bâtiment Résidentiel;TH;Thermique;Dispositif solaire thermique (France métropolitaine);A40-1;2021-12-29;;1;0;1
 BAR-TH-169v46-1;BAR-TH-169;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur collective de type air/eau ou eau/eau pour l'eau chaude sanitaire;A46-1;2022-08-05;;1;1;1
 BAR-TH-170v54-1;BAR-TH-170;BAR;Bâtiment Résidentiel;TH;Thermique;Récupération de chaleur fatale issue de serveurs informatiques pour l'eau chaude sanitaire collective;A54-1;2023-09-30;2028-06-30;1;1;1
@@ -282,8 +275,7 @@ BAT-TH-146v31-2;BAT-TH-146;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un r
 BAT-TH-146v50-3;BAT-TH-146;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A50-3;2023-04-01;2023-09-30;1;1;3
 BAT-TH-146v54-4;BAT-TH-146;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;A54-4;2023-10-01;2028-03-31;1;1;4
 BAT-TH-153v28-1;BAT-TH-153;BAT;Bâtiment Tertiaire;TH;Thermique;Système de confinement des allées froides et allées chaudes dans un Data Center;A28-1;2018-12-19;;1;1;1
-BAT-TH-154v28-1;BAT-TH-154;BAT;Bâtiment Tertiaire;TH;Thermique;"Récupération instantanée de chaleur sur
-eaux grises";A28-1;2018-12-19;;1;1;1
+BAT-TH-154v28-1;BAT-TH-154;BAT;Bâtiment Tertiaire;TH;Thermique;Récupération instantanée de chaleur sur eaux grises;A28-1;2018-12-19;;1;1;1
 BAT-TH-155v28-1;BAT-TH-155;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation de points singuliers d'un réseau;A28-1;2018-12-19;2023-09-30;1;1;1
 BAT-TH-155v54-2;BAT-TH-155;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation de points singuliers d'un réseau;A54-2;2023-10-01;;1;1;2
 BAT-TH-156v31-1;BAT-TH-156;BAT;Bâtiment Tertiaire;TH;Thermique;Freecooling par eau de refroidissement en substitution d'un groupe froid pour la climatisation;A31-1;2019-09-01;;1;1;1
