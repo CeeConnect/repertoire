@@ -6,16 +6,13 @@ Base de données des opérations valorisables au titre du dispositif des Certifi
 
 **Fiche** : Fiche d'opération standardisée telle que définie par l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie.
 
-**Bonus** : Bonification des opérations d'économies d'énergie hors charte d'engagement telle que définie par les articles 3-4 à 6-1 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
-
-**Bonification** : Bonification des opérations d'économies d'énergie relevant d'une charte d'engagement telle que définie par les articles 3-4 à 6-1 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
+**Bonification** : Bonification des opérations d'économies d'énergie telle que définie par les articles 3-4 à 6-1 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
 
 ## Description des fichiers
 
 | repertoire_fiche.csv | Répertoire des fiches d'opération standardisée |
 | repertoire_bonification.csv | Répertoire des bonifications |
-| repertoire_bonus.csv | Répertoire des bonus |
-| rapprochement_fiche_bonification.csv | Rapprochement des fiches d'opération standardisées et des bonifications |
+| repertoire_fiche_bonification.csv | Rapprochement des fiches d'opération standardisées et des bonifications |
 
 ### Répertoire des fiches d'opération standardisées
 
@@ -47,18 +44,6 @@ Base de données des opérations valorisables au titre du dispositif des Certifi
 | **version** | string | Code de la version de l'arrêté applicable |
 | **date_debut** | date | Date d'application de la version de la boninification |
 | **date_fin** | date | Date de fin d'application de la version de la boninification |
-
-### Répertoire des bonus
-
-| Propriété | Type | Description |
-|:---------:|:----:|:-----------:|
-| **id** | string | Identifiant unique du bonus au format code + version |
-| **code** | string | Code du bonus |
-| **code_nature** | string | Code du bonus au format de l'annexe 6 de l'arrêté du 4 septembre 2014 |
-| **nom** | string | Nom du bonus |
-| **version** | string | Code de la version de l'arrêté applicable |
-| **date_debut** | date | Date d'application de la version du bonus |
-| **date_fin** | date | Date de fin d'application de la version du bonus |
 
 ## Références réglementaires
 
