@@ -35,11 +35,9 @@ Base de données des opérations valorisables au titre du dispositif des Certifi
 
 | Propriété | Type | Description |
 |:---------:|:----:|:-----------:|
-| **@id** | string | Identifiant unique de la bonification au format code @fiche.id . @id |
 | **id** | string | Identifiant de la bonification au format @code v @version |
 | **code** | string | Code de la bonification |
 | **nature** | string | Code de la bonification au format de l'annexe 6 de l'arrêté du 4 septembre 2014 |
-| **id_fiche** | string | Identifiant de la fiche d'opération standardisée bonifiée |
 | **nom** | string | Nom de la bonification |
 | **version** | string | Code de la version de l'arrêté applicable |
 | **date_debut** | date | Date d'application de la version de la boninification |
