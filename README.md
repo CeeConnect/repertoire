@@ -1,4 +1,4 @@
-# Répertoire national des opérations standardisées d'économies d'énergie
+# @ceeconnect/repertoire
 
 Base de données des opérations valorisables au titre du dispositif des Certificats d'Economies d'Energies.
 
