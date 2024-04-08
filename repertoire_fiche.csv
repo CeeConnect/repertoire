@@ -40,9 +40,7 @@ BAR-EQ-101;BAR;Bâtiment Résidentiel;EQ;Equipement;Lampe fluo-compacte de class
 BAR-EQ-102;BAR;Bâtiment Résidentiel;EQ;Equipement;Lave-linge ménager de classe A++ ou A+++;1;1;1
 BAR-EQ-103;BAR;Bâtiment Résidentiel;EQ;Equipement;Appareil de réfrigération ménager de classe A++ ou A+++;1;1;1
 BAR-EQ-110;BAR;Bâtiment Résidentiel;EQ;Equipement;Luminaire à modules LED avec dispositif de contrôle pour les parties communes;1;1;1
-BAR-EQ-111;BAR;Bâtiment Résidentiel;EQ;Equipement;"Lampe à LED de classe A+ (< 01/10/2017)
-Lampe de classe A++
-(> 01/10/2017)";1;1;3
+BAR-EQ-111;BAR;Bâtiment Résidentiel;EQ;Equipement;"Lampe à LED de classe A+ (< 01/10/2017) - Lampe de classe A++(> 01/10/2017)";1;1;3
 BAR-EQ-112;BAR;Bâtiment Résidentiel;EQ;Equipement;Systèmes hydroéconomes (France métropolitaine);1;0;2
 BAR-EQ-113;BAR;Bâtiment Résidentiel;EQ;Equipement;Dispositif d'affichage et d'interprétation des consommations pour un logement chauffé à l'électricité;1;1;1
 BAR-EQ-114;BAR;Bâtiment Résidentiel;EQ;Equipement;Dispositif d'affichage et d'interprétation des consommations d'énergie pour un logement chauffé au combustible;1;1;1
@@ -94,8 +92,7 @@ BAR-TH-163;BAR;Bâtiment Résidentiel;TH;Thermique;Conduit d'évacuation des pro
 BAR-TH-164;BAR;Bâtiment Résidentiel;TH;Thermique;Rénovation globale d'une maison individuelle (France métropolitaine);1;0;3
 BAR-TH-165;BAR;Bâtiment Résidentiel;TH;Thermique;Chaudière biomasse collective;1;1;1
 BAR-TH-166;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur collective de type air/eau ou eau/eau;1;1;1
-BAR-TH-167;BAR;Bâtiment Résidentiel;TH;Thermique;"Chauffe-bain individuel à haut rendement ou à condensation
-(France métropolitaine)";1;0;1
+BAR-TH-167;BAR;Bâtiment Résidentiel;TH;Thermique;"Chauffe-bain individuel à haut rendement ou à condensation (France métropolitaine)";1;0;1
 BAR-TH-168;BAR;Bâtiment Résidentiel;TH;Thermique;Dispositif solaire thermique (France métropolitaine);1;0;1
 BAR-TH-169;BAR;Bâtiment Résidentiel;TH;Thermique;Pompe à chaleur collective de type air/eau ou eau/eau pour l'eau chaude sanitaire;1;1;1
 BAR-TH-170;BAR;Bâtiment Résidentiel;TH;Thermique;Récupération de chaleur fatale issue de serveurs informatiques pour l'eau chaude sanitaire collective;1;1;1
@@ -164,8 +161,7 @@ BAT-TH-143;BAT;Bâtiment Tertiaire;TH;Thermique;Ventilo-convecteurs haute perfor
 BAT-TH-145;BAT;Bâtiment Tertiaire;TH;Thermique;Système de régulation sur un groupe de production de froid permettant d'avoir une basse pression flottante (France métropolitaine);1;1;1
 BAT-TH-146;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique de chauffage ou d'eau chaude sanitaire;1;1;4
 BAT-TH-153;BAT;Bâtiment Tertiaire;TH;Thermique;Système de confinement des allées froides et allées chaudes dans un Data Center;1;1;1
-BAT-TH-154;BAT;Bâtiment Tertiaire;TH;Thermique;"Récupération instantanée de chaleur sur
-eaux grises";1;1;1
+BAT-TH-154;BAT;Bâtiment Tertiaire;TH;Thermique;"Récupération instantanée de chaleur sur eaux grises";1;1;1
 BAT-TH-155;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation de points singuliers d'un réseau;1;1;2
 BAT-TH-156;BAT;Bâtiment Tertiaire;TH;Thermique;Freecooling par eau de refroidissement en substitution d'un groupe froid pour la climatisation;1;1;1
 BAT-TH-157;BAT;Bâtiment Tertiaire;TH;Thermique;Chaudière biomasse collective;1;1;2
@@ -258,4 +254,3 @@ TRA-SE-113;TRA;Transport;SE;Service;Suivi des consommations de carburants grâce
 TRA-SE-114;TRA;Transport;SE;Service;Covoiturage de longue distance;1;1;1
 TRA-SE-115;TRA;Transport;SE;Service;Covoiturage de courte distance;1;1;1
 TRA-SE-116;TRA;Transport;SE;Service;Fret ferroviaire;1;1;2
-Total;255;255;;;255;238;221;434
