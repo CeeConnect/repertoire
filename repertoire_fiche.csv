@@ -144,7 +144,7 @@ BAT-TH-111;BAT;Bâtiment Tertiaire;TH;Thermique;Chauffe-eau solaire collectif (F
 BAT-TH-112;BAT;Bâtiment Tertiaire;TH;Thermique;Système de variation électronique de vitesse sur un moteur asynchrone;1;1;2
 BAT-TH-113;BAT;Bâtiment Tertiaire;TH;Thermique;Pompe à chaleur de type air/eau ou eau/eau;1;1;4
 BAT-TH-115;BAT;Bâtiment Tertiaire;TH;Thermique;Climatiseur performant (France d'outre mer);0;0;2
-BAT-TH-116;BAT;Bâtiment Tertiaire;TH;Thermique;"Système de gestion technique du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement/climatisation, l'éclairage et les auxiliaires";1;1;5
+BAT-TH-116;BAT;Bâtiment Tertiaire;TH;Thermique;Système de gestion technique du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement/climatisation, l'éclairage et les auxiliaires;1;1;5
 BAT-TH-119;BAT;Bâtiment Tertiaire;TH;Thermique;Isolation d'un réseau hydraulique d'eau chaude sanitaire;1;1;2
 BAT-TH-121;BAT;Bâtiment Tertiaire;TH;Thermique;Chauffe-eau solaire (France d'outre mer);0;0;3
 BAT-TH-122;BAT;Bâtiment Tertiaire;TH;Thermique;Programmateur d'intermittence pour la climatisation (France d'outre-mer);0;0;1
@@ -223,7 +223,7 @@ TRA-EQ-107;TRA;Transport;EQ;Equipement;Unité de transport intermodal pour le tr
 TRA-EQ-108;TRA;Transport;EQ;Equipement;Wagon d'autoroute ferroviaire;1;1;6
 TRA-EQ-109;TRA;Transport;EQ;Equipement;Barge fluviale;1;1;1
 TRA-EQ-110;TRA;Transport;EQ;Equipement;Automoteur fluvial;1;1;1
-TRA-EQ-111;TRA;Transport;EQ;Equipement;"Groupes frigorifiques autonomes à haute efficacité énergétique pour camions, semi remorques, remorques et caisses mobiles frigorifiques";1;1;1
+TRA-EQ-111;TRA;Transport;EQ;Equipement;Groupes frigorifiques autonomes à haute efficacité énergétique pour camions, semi remorques, remorques et caisses mobiles frigorifiques;1;1;1
 TRA-EQ-113;TRA;Transport;EQ;Equipement;Lubrifiant économiseur d'énergie pour des véhicules de transport de personnes ou de marchandises;1;1;1
 TRA-EQ-114;TRA;Transport;EQ;Equipement;Remplacement de véhicules par des véhicules neufs performants dans une flotte professionnelle;1;1;1
 TRA-EQ-115;TRA;Transport;EQ;Equipement;Véhicules de transport de marchandises optimisé;1;1;1
@@ -237,7 +237,7 @@ TRA-EQ-123;TRA;Transport;EQ;Equipement;Simulateur de conduite;1;1;2
 TRA-EQ-124;TRA;Transport;EQ;Equipement;Branchement électrique des navires et bateaux à quai;1;1;1
 TRA-EQ-125;TRA;Transport;EQ;Equipement;« Stop & Start » pour véhicules ferroviaires;1;1;2
 TRA-EQ-126;TRA;Transport;EQ;Equipement;Remotorisation en propulsion électrique ou hybride d'un bateau naviguant en eaux intérieures;1;1;1
-TRA-EQ-127;TRA;Transport;EQ;Equipement;"Acquisition d'un bateau neuf à propulsion électrique ou hybride, naviguant en eaux intérieures";1;1;1
+TRA-EQ-127;TRA;Transport;EQ;Equipement;Acquisition d'un bateau neuf à propulsion électrique ou hybride, naviguant en eaux intérieures;1;1;1
 TRA-EQ-128;TRA;Transport;EQ;Equipement;Achat ou location d'un autocar ou d'un autobus électrique neuf ou réalisation d'une opération de rétrofit électrique d'autocar ou d'autobus ;1;1;1
 TRA-SE-101;TRA;Transport;SE;Service;Formation d'un chauffeur de transport à la conduite économe;1;1;1
 TRA-SE-102;TRA;Transport;SE;Service;Formation d'un chauffeur de véhicule léger à la conduite économe;1;1;1
